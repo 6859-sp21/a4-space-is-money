@@ -1,0 +1,3103 @@
+,fiscal_year,mission,cost,destination
+0,1960,Cassini,,Saturn
+1,1961,Cassini,,Saturn
+2,1962,Cassini,,Saturn
+3,1963,Cassini,,Saturn
+4,1964,Cassini,,Saturn
+5,1965,Cassini,,Saturn
+6,1966,Cassini,,Saturn
+7,1967,Cassini,,Saturn
+8,1968,Cassini,,Saturn
+9,1969,Cassini,,Saturn
+10,1970,Cassini,,Saturn
+11,1971,Cassini,,Saturn
+12,1972,Cassini,,Saturn
+13,1973,Cassini,,Saturn
+14,1974,Cassini,,Saturn
+15,1975,Cassini,,Saturn
+16,1976,Cassini,,Saturn
+18,1977,Cassini,,Saturn
+19,1978,Cassini,,Saturn
+20,1979,Cassini,,Saturn
+21,1980,Cassini,,Saturn
+22,1981,Cassini,,Saturn
+23,1982,Cassini,,Saturn
+24,1983,Cassini,,Saturn
+25,1984,Cassini,,Saturn
+26,1985,Cassini,,Saturn
+27,1986,Cassini,,Saturn
+28,1987,Cassini,,Saturn
+29,1988,Cassini,,Saturn
+30,1989,Cassini,,Saturn
+31,1990,Cassini,29.5,Saturn
+32,1991,Cassini,145.4,Saturn
+33,1992,Cassini,236.1666667,Saturn
+34,1993,Cassini,226.5196667,Saturn
+35,1994,Cassini,358.9666667,Saturn
+36,1995,Cassini,346.8,Saturn
+37,1996,Cassini,287.6,Saturn
+38,1997,Cassini,187.6,Saturn
+39,1998,Cassini,60.4,Saturn
+40,1999,Cassini,64.6,Saturn
+41,2000,Cassini,61.2,Saturn
+42,2001,Cassini,58.1,Saturn
+43,2002,Cassini,65.8,Saturn
+44,2003,Cassini,75.7,Saturn
+45,2004,Cassini,81.21428571,Saturn
+46,2005,Cassini,81,Saturn
+47,2006,Cassini,81.25,Saturn
+48,2007,Cassini,81.25,Saturn
+49,2008,Cassini,81.25,Saturn
+50,2009,Cassini,81.25,Saturn
+51,2010,Cassini,81.25,Saturn
+52,2011,Cassini,65.8,Saturn
+53,2012,Cassini,60.3,Saturn
+54,2013,Cassini,57.9,Saturn
+55,2014,Cassini,51.6,Saturn
+56,2015,Cassini,68.1,Saturn
+57,2016,Cassini,58.8,Saturn
+58,2017,Cassini,54.1,Saturn
+59,2018,Cassini,19.2,Saturn
+60,2019,Cassini,3.9,Saturn
+61,2020,Cassini,,Saturn
+62,2021,Cassini,,Saturn
+63,2022,Cassini,,Saturn
+64,2023,Cassini,,Saturn
+65,2024,Cassini,,Saturn
+66,2025,Cassini,,Saturn
+67,1960,CONTOUR,,Comet
+68,1961,CONTOUR,,Comet
+69,1962,CONTOUR,,Comet
+70,1963,CONTOUR,,Comet
+71,1964,CONTOUR,,Comet
+72,1965,CONTOUR,,Comet
+73,1966,CONTOUR,,Comet
+74,1967,CONTOUR,,Comet
+75,1968,CONTOUR,,Comet
+76,1969,CONTOUR,,Comet
+77,1970,CONTOUR,,Comet
+78,1971,CONTOUR,,Comet
+79,1972,CONTOUR,,Comet
+80,1973,CONTOUR,,Comet
+81,1974,CONTOUR,,Comet
+82,1975,CONTOUR,,Comet
+83,1976,CONTOUR,,Comet
+85,1977,CONTOUR,,Comet
+86,1978,CONTOUR,,Comet
+87,1979,CONTOUR,,Comet
+88,1980,CONTOUR,,Comet
+89,1981,CONTOUR,,Comet
+90,1982,CONTOUR,,Comet
+91,1983,CONTOUR,,Comet
+92,1984,CONTOUR,,Comet
+93,1985,CONTOUR,,Comet
+94,1986,CONTOUR,,Comet
+95,1987,CONTOUR,,Comet
+96,1988,CONTOUR,,Comet
+97,1989,CONTOUR,,Comet
+98,1990,CONTOUR,,Comet
+99,1991,CONTOUR,,Comet
+100,1992,CONTOUR,,Comet
+101,1993,CONTOUR,,Comet
+102,1994,CONTOUR,,Comet
+103,1995,CONTOUR,,Comet
+104,1996,CONTOUR,,Comet
+105,1997,CONTOUR,,Comet
+106,1998,CONTOUR,0.4,Comet
+107,1999,CONTOUR,8.8,Comet
+108,2000,CONTOUR,52.1,Comet
+109,2001,CONTOUR,62.2,Comet
+110,2002,CONTOUR,19.7,Comet
+111,2003,CONTOUR,,Comet
+112,2004,CONTOUR,,Comet
+113,2005,CONTOUR,,Comet
+114,2006,CONTOUR,,Comet
+115,2007,CONTOUR,,Comet
+116,2008,CONTOUR,,Comet
+117,2009,CONTOUR,,Comet
+118,2010,CONTOUR,,Comet
+119,2011,CONTOUR,,Comet
+120,2012,CONTOUR,,Comet
+121,2013,CONTOUR,,Comet
+122,2014,CONTOUR,,Comet
+123,2015,CONTOUR,,Comet
+124,2016,CONTOUR,,Comet
+125,2017,CONTOUR,,Comet
+126,2018,CONTOUR,,Comet
+127,2019,CONTOUR,,Comet
+128,2020,CONTOUR,,Comet
+129,2021,CONTOUR,,Comet
+130,2022,CONTOUR,,Comet
+131,2023,CONTOUR,,Comet
+132,2024,CONTOUR,,Comet
+133,2025,CONTOUR,,Comet
+134,1960,DART,,Asteroid
+135,1961,DART,,Asteroid
+136,1962,DART,,Asteroid
+137,1963,DART,,Asteroid
+138,1964,DART,,Asteroid
+139,1965,DART,,Asteroid
+140,1966,DART,,Asteroid
+141,1967,DART,,Asteroid
+142,1968,DART,,Asteroid
+143,1969,DART,,Asteroid
+144,1970,DART,,Asteroid
+145,1971,DART,,Asteroid
+146,1972,DART,,Asteroid
+147,1973,DART,,Asteroid
+148,1974,DART,,Asteroid
+149,1975,DART,,Asteroid
+150,1976,DART,,Asteroid
+152,1977,DART,,Asteroid
+153,1978,DART,,Asteroid
+154,1979,DART,,Asteroid
+155,1980,DART,,Asteroid
+156,1981,DART,,Asteroid
+157,1982,DART,,Asteroid
+158,1983,DART,,Asteroid
+159,1984,DART,,Asteroid
+160,1985,DART,,Asteroid
+161,1986,DART,,Asteroid
+162,1987,DART,,Asteroid
+163,1988,DART,,Asteroid
+164,1989,DART,,Asteroid
+165,1990,DART,,Asteroid
+166,1991,DART,,Asteroid
+167,1992,DART,,Asteroid
+168,1993,DART,,Asteroid
+169,1994,DART,,Asteroid
+170,1995,DART,,Asteroid
+171,1996,DART,,Asteroid
+172,1997,DART,,Asteroid
+173,1998,DART,,Asteroid
+174,1999,DART,,Asteroid
+175,2000,DART,,Asteroid
+176,2001,DART,,Asteroid
+177,2002,DART,,Asteroid
+178,2003,DART,,Asteroid
+179,2004,DART,,Asteroid
+180,2005,DART,,Asteroid
+181,2006,DART,,Asteroid
+182,2007,DART,,Asteroid
+183,2008,DART,,Asteroid
+184,2009,DART,,Asteroid
+185,2010,DART,,Asteroid
+186,2011,DART,,Asteroid
+187,2012,DART,,Asteroid
+188,2013,DART,,Asteroid
+189,2014,DART,,Asteroid
+190,2015,DART,,Asteroid
+191,2016,DART,6.4,Asteroid
+192,2017,DART,16.1,Asteroid
+193,2018,DART,41,Asteroid
+194,2019,DART,98,Asteroid
+195,2020,DART,72.4,Asteroid
+196,2021,DART,66.4,Asteroid
+197,2022,DART,9.1,Asteroid
+198,2023,DART,4.5,Asteroid
+199,2024,DART,,Asteroid
+200,2025,DART,,Asteroid
+201,1960,Dawn,,Asteroid
+202,1961,Dawn,,Asteroid
+203,1962,Dawn,,Asteroid
+204,1963,Dawn,,Asteroid
+205,1964,Dawn,,Asteroid
+206,1965,Dawn,,Asteroid
+207,1966,Dawn,,Asteroid
+208,1967,Dawn,,Asteroid
+209,1968,Dawn,,Asteroid
+210,1969,Dawn,,Asteroid
+211,1970,Dawn,,Asteroid
+212,1971,Dawn,,Asteroid
+213,1972,Dawn,,Asteroid
+214,1973,Dawn,,Asteroid
+215,1974,Dawn,,Asteroid
+216,1975,Dawn,,Asteroid
+217,1976,Dawn,,Asteroid
+219,1977,Dawn,,Asteroid
+220,1978,Dawn,,Asteroid
+221,1979,Dawn,,Asteroid
+222,1980,Dawn,,Asteroid
+223,1981,Dawn,,Asteroid
+224,1982,Dawn,,Asteroid
+225,1983,Dawn,,Asteroid
+226,1984,Dawn,,Asteroid
+227,1985,Dawn,,Asteroid
+228,1986,Dawn,,Asteroid
+229,1987,Dawn,,Asteroid
+230,1988,Dawn,,Asteroid
+231,1989,Dawn,,Asteroid
+232,1990,Dawn,,Asteroid
+233,1991,Dawn,,Asteroid
+234,1992,Dawn,,Asteroid
+235,1993,Dawn,,Asteroid
+236,1994,Dawn,,Asteroid
+237,1995,Dawn,,Asteroid
+238,1996,Dawn,,Asteroid
+239,1997,Dawn,,Asteroid
+240,1998,Dawn,,Asteroid
+241,1999,Dawn,,Asteroid
+242,2000,Dawn,,Asteroid
+243,2001,Dawn,,Asteroid
+244,2002,Dawn,1,Asteroid
+245,2003,Dawn,36.3,Asteroid
+246,2004,Dawn,126.5,Asteroid
+247,2005,Dawn,85.9,Asteroid
+248,2006,Dawn,59.6,Asteroid
+249,2007,Dawn,63.7,Asteroid
+250,2008,Dawn,7.8,Asteroid
+251,2009,Dawn,7.6,Asteroid
+252,2010,Dawn,8.1,Asteroid
+253,2011,Dawn,14.8,Asteroid
+254,2012,Dawn,14.3,Asteroid
+255,2013,Dawn,23.3,Asteroid
+256,2014,Dawn,1.5,Asteroid
+257,2015,Dawn,17.2,Asteroid
+258,2016,Dawn,22.2,Asteroid
+259,2017,Dawn,1,Asteroid
+260,2018,Dawn,11.1,Asteroid
+261,2019,Dawn,0.2,Asteroid
+262,2020,Dawn,,Asteroid
+263,2021,Dawn,,Asteroid
+264,2022,Dawn,,Asteroid
+265,2023,Dawn,,Asteroid
+266,2024,Dawn,,Asteroid
+267,2025,Dawn,,Asteroid
+268,1960,Deep Impact,,Comet
+269,1961,Deep Impact,,Comet
+270,1962,Deep Impact,,Comet
+271,1963,Deep Impact,,Comet
+272,1964,Deep Impact,,Comet
+273,1965,Deep Impact,,Comet
+274,1966,Deep Impact,,Comet
+275,1967,Deep Impact,,Comet
+276,1968,Deep Impact,,Comet
+277,1969,Deep Impact,,Comet
+278,1970,Deep Impact,,Comet
+279,1971,Deep Impact,,Comet
+280,1972,Deep Impact,,Comet
+281,1973,Deep Impact,,Comet
+282,1974,Deep Impact,,Comet
+283,1975,Deep Impact,,Comet
+284,1976,Deep Impact,,Comet
+286,1977,Deep Impact,,Comet
+287,1978,Deep Impact,,Comet
+288,1979,Deep Impact,,Comet
+289,1980,Deep Impact,,Comet
+290,1981,Deep Impact,,Comet
+291,1982,Deep Impact,,Comet
+292,1983,Deep Impact,,Comet
+293,1984,Deep Impact,,Comet
+294,1985,Deep Impact,,Comet
+295,1986,Deep Impact,,Comet
+296,1987,Deep Impact,,Comet
+297,1988,Deep Impact,,Comet
+298,1989,Deep Impact,,Comet
+299,1990,Deep Impact,,Comet
+300,1991,Deep Impact,,Comet
+301,1992,Deep Impact,,Comet
+302,1993,Deep Impact,,Comet
+303,1994,Deep Impact,,Comet
+304,1995,Deep Impact,,Comet
+305,1996,Deep Impact,,Comet
+306,1997,Deep Impact,,Comet
+307,1998,Deep Impact,,Comet
+308,1999,Deep Impact,1.5,Comet
+309,2000,Deep Impact,22.8,Comet
+310,2001,Deep Impact,72.7,Comet
+311,2002,Deep Impact,113.4,Comet
+312,2003,Deep Impact,80.5,Comet
+313,2004,Deep Impact,17.8,Comet
+314,2005,Deep Impact,31.9,Comet
+315,2006,Deep Impact,7.7,Comet
+316,2007,Deep Impact,9.175,Comet
+317,2008,Deep Impact,9.175,Comet
+318,2009,Deep Impact,9.175,Comet
+319,2010,Deep Impact,9.175,Comet
+320,2011,Deep Impact,5.3,Comet
+321,2012,Deep Impact,4,Comet
+322,2013,Deep Impact,3,Comet
+323,2014,Deep Impact,,Comet
+324,2015,Deep Impact,,Comet
+325,2016,Deep Impact,,Comet
+326,2017,Deep Impact,,Comet
+327,2018,Deep Impact,,Comet
+328,2019,Deep Impact,,Comet
+329,2020,Deep Impact,,Comet
+330,2021,Deep Impact,,Comet
+331,2022,Deep Impact,,Comet
+332,2023,Deep Impact,,Comet
+333,2024,Deep Impact,,Comet
+334,2025,Deep Impact,,Comet
+335,1960,Deep Space 1,,Asteroid
+336,1961,Deep Space 1,,Asteroid
+337,1962,Deep Space 1,,Asteroid
+338,1963,Deep Space 1,,Asteroid
+339,1964,Deep Space 1,,Asteroid
+340,1965,Deep Space 1,,Asteroid
+341,1966,Deep Space 1,,Asteroid
+342,1967,Deep Space 1,,Asteroid
+343,1968,Deep Space 1,,Asteroid
+344,1969,Deep Space 1,,Asteroid
+345,1970,Deep Space 1,,Asteroid
+346,1971,Deep Space 1,,Asteroid
+347,1972,Deep Space 1,,Asteroid
+348,1973,Deep Space 1,,Asteroid
+349,1974,Deep Space 1,,Asteroid
+350,1975,Deep Space 1,,Asteroid
+351,1976,Deep Space 1,,Asteroid
+353,1977,Deep Space 1,,Asteroid
+354,1978,Deep Space 1,,Asteroid
+355,1979,Deep Space 1,,Asteroid
+356,1980,Deep Space 1,,Asteroid
+357,1981,Deep Space 1,,Asteroid
+358,1982,Deep Space 1,,Asteroid
+359,1983,Deep Space 1,,Asteroid
+360,1984,Deep Space 1,,Asteroid
+361,1985,Deep Space 1,,Asteroid
+362,1986,Deep Space 1,,Asteroid
+363,1987,Deep Space 1,,Asteroid
+364,1988,Deep Space 1,,Asteroid
+365,1989,Deep Space 1,,Asteroid
+366,1990,Deep Space 1,,Asteroid
+367,1991,Deep Space 1,,Asteroid
+368,1992,Deep Space 1,,Asteroid
+369,1993,Deep Space 1,,Asteroid
+370,1994,Deep Space 1,,Asteroid
+371,1995,Deep Space 1,,Asteroid
+372,1996,Deep Space 1,41.2,Asteroid
+373,1997,Deep Space 1,40.1,Asteroid
+374,1998,Deep Space 1,63.9,Asteroid
+375,1999,Deep Space 1,13.8,Asteroid
+376,2000,Deep Space 1,4.9,Asteroid
+377,2001,Deep Space 1,5.8,Asteroid
+378,2002,Deep Space 1,0.6,Asteroid
+379,2003,Deep Space 1,,Asteroid
+380,2004,Deep Space 1,,Asteroid
+381,2005,Deep Space 1,,Asteroid
+382,2006,Deep Space 1,,Asteroid
+383,2007,Deep Space 1,,Asteroid
+384,2008,Deep Space 1,,Asteroid
+385,2009,Deep Space 1,,Asteroid
+386,2010,Deep Space 1,,Asteroid
+387,2011,Deep Space 1,,Asteroid
+388,2012,Deep Space 1,,Asteroid
+389,2013,Deep Space 1,,Asteroid
+390,2014,Deep Space 1,,Asteroid
+391,2015,Deep Space 1,,Asteroid
+392,2016,Deep Space 1,,Asteroid
+393,2017,Deep Space 1,,Asteroid
+394,2018,Deep Space 1,,Asteroid
+395,2019,Deep Space 1,,Asteroid
+396,2020,Deep Space 1,,Asteroid
+397,2021,Deep Space 1,,Asteroid
+398,2022,Deep Space 1,,Asteroid
+399,2023,Deep Space 1,,Asteroid
+400,2024,Deep Space 1,,Asteroid
+401,2025,Deep Space 1,,Asteroid
+402,1960,Europa Clipper,,Jupiter
+403,1961,Europa Clipper,,Jupiter
+404,1962,Europa Clipper,,Jupiter
+405,1963,Europa Clipper,,Jupiter
+406,1964,Europa Clipper,,Jupiter
+407,1965,Europa Clipper,,Jupiter
+408,1966,Europa Clipper,,Jupiter
+409,1967,Europa Clipper,,Jupiter
+410,1968,Europa Clipper,,Jupiter
+411,1969,Europa Clipper,,Jupiter
+412,1970,Europa Clipper,,Jupiter
+413,1971,Europa Clipper,,Jupiter
+414,1972,Europa Clipper,,Jupiter
+415,1973,Europa Clipper,,Jupiter
+416,1974,Europa Clipper,,Jupiter
+417,1975,Europa Clipper,,Jupiter
+418,1976,Europa Clipper,,Jupiter
+420,1977,Europa Clipper,,Jupiter
+421,1978,Europa Clipper,,Jupiter
+422,1979,Europa Clipper,,Jupiter
+423,1980,Europa Clipper,,Jupiter
+424,1981,Europa Clipper,,Jupiter
+425,1982,Europa Clipper,,Jupiter
+426,1983,Europa Clipper,,Jupiter
+427,1984,Europa Clipper,,Jupiter
+428,1985,Europa Clipper,,Jupiter
+429,1986,Europa Clipper,,Jupiter
+430,1987,Europa Clipper,,Jupiter
+431,1988,Europa Clipper,,Jupiter
+432,1989,Europa Clipper,,Jupiter
+433,1990,Europa Clipper,,Jupiter
+434,1991,Europa Clipper,,Jupiter
+435,1992,Europa Clipper,,Jupiter
+436,1993,Europa Clipper,,Jupiter
+437,1994,Europa Clipper,,Jupiter
+438,1995,Europa Clipper,,Jupiter
+439,1996,Europa Clipper,,Jupiter
+440,1997,Europa Clipper,,Jupiter
+441,1998,Europa Clipper,,Jupiter
+442,1999,Europa Clipper,,Jupiter
+443,2000,Europa Clipper,,Jupiter
+444,2001,Europa Clipper,,Jupiter
+445,2002,Europa Clipper,,Jupiter
+446,2003,Europa Clipper,,Jupiter
+447,2004,Europa Clipper,,Jupiter
+448,2005,Europa Clipper,,Jupiter
+449,2006,Europa Clipper,,Jupiter
+450,2007,Europa Clipper,,Jupiter
+451,2008,Europa Clipper,,Jupiter
+452,2009,Europa Clipper,,Jupiter
+453,2010,Europa Clipper,,Jupiter
+454,2011,Europa Clipper,,Jupiter
+455,2012,Europa Clipper,,Jupiter
+456,2013,Europa Clipper,,Jupiter
+457,2014,Europa Clipper,,Jupiter
+458,2015,Europa Clipper,100,Jupiter
+459,2016,Europa Clipper,146.3,Jupiter
+460,2017,Europa Clipper,237.4,Jupiter
+461,2018,Europa Clipper,525,Jupiter
+462,2019,Europa Clipper,545,Jupiter
+463,2020,Europa Clipper,592.6,Jupiter
+464,2021,Europa Clipper,403.5,Jupiter
+465,2022,Europa Clipper,351.8,Jupiter
+466,2023,Europa Clipper,224.9,Jupiter
+467,2024,Europa Clipper,180.8,Jupiter
+468,2025,Europa Clipper,210.2,Jupiter
+469,1960,Galileo,,Jupiter
+470,1961,Galileo,,Jupiter
+471,1962,Galileo,,Jupiter
+472,1963,Galileo,,Jupiter
+473,1964,Galileo,,Jupiter
+474,1965,Galileo,,Jupiter
+475,1966,Galileo,,Jupiter
+476,1967,Galileo,,Jupiter
+477,1968,Galileo,,Jupiter
+478,1969,Galileo,,Jupiter
+479,1970,Galileo,,Jupiter
+480,1971,Galileo,,Jupiter
+481,1972,Galileo,,Jupiter
+482,1973,Galileo,,Jupiter
+483,1974,Galileo,,Jupiter
+484,1975,Galileo,,Jupiter
+485,1976,Galileo,,Jupiter
+487,1977,Galileo,,Jupiter
+488,1978,Galileo,20.95,Jupiter
+489,1979,Galileo,78.7,Jupiter
+490,1980,Galileo,116.1,Jupiter
+491,1981,Galileo,63.1,Jupiter
+492,1982,Galileo,115.7,Jupiter
+493,1983,Galileo,91.6,Jupiter
+494,1984,Galileo,79.5,Jupiter
+495,1985,Galileo,58.8,Jupiter
+496,1986,Galileo,64.2,Jupiter
+497,1987,Galileo,71.2,Jupiter
+498,1988,Galileo,51.9,Jupiter
+499,1989,Galileo,73.4,Jupiter
+500,1990,Galileo,37.315,Jupiter
+501,1991,Galileo,48.074,Jupiter
+502,1992,Galileo,57.7,Jupiter
+503,1993,Galileo,59.429,Jupiter
+504,1994,Galileo,59.4,Jupiter
+505,1995,Galileo,70.7,Jupiter
+506,1996,Galileo,71.5,Jupiter
+507,1997,Galileo,64.4,Jupiter
+508,1998,Galileo,29.8,Jupiter
+509,1999,Galileo,16,Jupiter
+510,2000,Galileo,15,Jupiter
+511,2001,Galileo,15,Jupiter
+512,2002,Galileo,15,Jupiter
+513,2003,Galileo,15,Jupiter
+514,2004,Galileo,,Jupiter
+515,2005,Galileo,,Jupiter
+516,2006,Galileo,,Jupiter
+517,2007,Galileo,,Jupiter
+518,2008,Galileo,,Jupiter
+519,2009,Galileo,,Jupiter
+520,2010,Galileo,,Jupiter
+521,2011,Galileo,,Jupiter
+522,2012,Galileo,,Jupiter
+523,2013,Galileo,,Jupiter
+524,2014,Galileo,,Jupiter
+525,2015,Galileo,,Jupiter
+526,2016,Galileo,,Jupiter
+527,2017,Galileo,,Jupiter
+528,2018,Galileo,,Jupiter
+529,2019,Galileo,,Jupiter
+530,2020,Galileo,,Jupiter
+531,2021,Galileo,,Jupiter
+532,2022,Galileo,,Jupiter
+533,2023,Galileo,,Jupiter
+534,2024,Galileo,,Jupiter
+535,2025,Galileo,,Jupiter
+536,1960,Genesis,,Other
+537,1961,Genesis,,Other
+538,1962,Genesis,,Other
+539,1963,Genesis,,Other
+540,1964,Genesis,,Other
+541,1965,Genesis,,Other
+542,1966,Genesis,,Other
+543,1967,Genesis,,Other
+544,1968,Genesis,,Other
+545,1969,Genesis,,Other
+546,1970,Genesis,,Other
+547,1971,Genesis,,Other
+548,1972,Genesis,,Other
+549,1973,Genesis,,Other
+550,1974,Genesis,,Other
+551,1975,Genesis,,Other
+552,1976,Genesis,,Other
+554,1977,Genesis,,Other
+555,1978,Genesis,,Other
+556,1979,Genesis,,Other
+557,1980,Genesis,,Other
+558,1981,Genesis,,Other
+559,1982,Genesis,,Other
+560,1983,Genesis,,Other
+561,1984,Genesis,,Other
+562,1985,Genesis,,Other
+563,1986,Genesis,,Other
+564,1987,Genesis,,Other
+565,1988,Genesis,,Other
+566,1989,Genesis,,Other
+567,1990,Genesis,,Other
+568,1991,Genesis,,Other
+569,1992,Genesis,,Other
+570,1993,Genesis,,Other
+571,1994,Genesis,,Other
+572,1995,Genesis,,Other
+573,1996,Genesis,,Other
+574,1997,Genesis,0.8,Other
+575,1998,Genesis,43.7,Other
+576,1999,Genesis,82.9,Other
+577,2000,Genesis,62.3,Other
+578,2001,Genesis,29.6,Other
+579,2002,Genesis,10.2,Other
+580,2003,Genesis,10,Other
+581,2004,Genesis,9.3,Other
+582,2005,Genesis,9.7,Other
+583,2006,Genesis,1.9,Other
+584,2007,Genesis,,Other
+585,2008,Genesis,,Other
+586,2009,Genesis,,Other
+587,2010,Genesis,,Other
+588,2011,Genesis,,Other
+589,2012,Genesis,,Other
+590,2013,Genesis,,Other
+591,2014,Genesis,,Other
+592,2015,Genesis,,Other
+593,2016,Genesis,,Other
+594,2017,Genesis,,Other
+595,2018,Genesis,,Other
+596,2019,Genesis,,Other
+597,2020,Genesis,,Other
+598,2021,Genesis,,Other
+599,2022,Genesis,,Other
+600,2023,Genesis,,Other
+601,2024,Genesis,,Other
+602,2025,Genesis,,Other
+603,1960,GRAIL,,Moon
+604,1961,GRAIL,,Moon
+605,1962,GRAIL,,Moon
+606,1963,GRAIL,,Moon
+607,1964,GRAIL,,Moon
+608,1965,GRAIL,,Moon
+609,1966,GRAIL,,Moon
+610,1967,GRAIL,,Moon
+611,1968,GRAIL,,Moon
+612,1969,GRAIL,,Moon
+613,1970,GRAIL,,Moon
+614,1971,GRAIL,,Moon
+615,1972,GRAIL,,Moon
+616,1973,GRAIL,,Moon
+617,1974,GRAIL,,Moon
+618,1975,GRAIL,,Moon
+619,1976,GRAIL,,Moon
+621,1977,GRAIL,,Moon
+622,1978,GRAIL,,Moon
+623,1979,GRAIL,,Moon
+624,1980,GRAIL,,Moon
+625,1981,GRAIL,,Moon
+626,1982,GRAIL,,Moon
+627,1983,GRAIL,,Moon
+628,1984,GRAIL,,Moon
+629,1985,GRAIL,,Moon
+630,1986,GRAIL,,Moon
+631,1987,GRAIL,,Moon
+632,1988,GRAIL,,Moon
+633,1989,GRAIL,,Moon
+634,1990,GRAIL,,Moon
+635,1991,GRAIL,,Moon
+636,1992,GRAIL,,Moon
+637,1993,GRAIL,,Moon
+638,1994,GRAIL,,Moon
+639,1995,GRAIL,,Moon
+640,1996,GRAIL,,Moon
+641,1997,GRAIL,,Moon
+642,1998,GRAIL,,Moon
+643,1999,GRAIL,,Moon
+644,2000,GRAIL,,Moon
+645,2001,GRAIL,,Moon
+646,2002,GRAIL,,Moon
+647,2003,GRAIL,,Moon
+648,2004,GRAIL,,Moon
+649,2005,GRAIL,,Moon
+650,2006,GRAIL,,Moon
+651,2007,GRAIL,1.2,Moon
+652,2008,GRAIL,67.1,Moon
+653,2009,GRAIL,152.9,Moon
+654,2010,GRAIL,124.1,Moon
+655,2011,GRAIL,103.4,Moon
+656,2012,GRAIL,29.8,Moon
+657,2013,GRAIL,7,Moon
+658,2014,GRAIL,3,Moon
+659,2015,GRAIL,,Moon
+660,2016,GRAIL,,Moon
+661,2017,GRAIL,,Moon
+662,2018,GRAIL,,Moon
+663,2019,GRAIL,,Moon
+664,2020,GRAIL,,Moon
+665,2021,GRAIL,,Moon
+666,2022,GRAIL,,Moon
+667,2023,GRAIL,,Moon
+668,2024,GRAIL,,Moon
+669,2025,GRAIL,,Moon
+670,1960,InSight,,Mars
+671,1961,InSight,,Mars
+672,1962,InSight,,Mars
+673,1963,InSight,,Mars
+674,1964,InSight,,Mars
+675,1965,InSight,,Mars
+676,1966,InSight,,Mars
+677,1967,InSight,,Mars
+678,1968,InSight,,Mars
+679,1969,InSight,,Mars
+680,1970,InSight,,Mars
+681,1971,InSight,,Mars
+682,1972,InSight,,Mars
+683,1973,InSight,,Mars
+684,1974,InSight,,Mars
+685,1975,InSight,,Mars
+686,1976,InSight,,Mars
+688,1977,InSight,,Mars
+689,1978,InSight,,Mars
+690,1979,InSight,,Mars
+691,1980,InSight,,Mars
+692,1981,InSight,,Mars
+693,1982,InSight,,Mars
+694,1983,InSight,,Mars
+695,1984,InSight,,Mars
+696,1985,InSight,,Mars
+697,1986,InSight,,Mars
+698,1987,InSight,,Mars
+699,1988,InSight,,Mars
+700,1989,InSight,,Mars
+701,1990,InSight,,Mars
+702,1991,InSight,,Mars
+703,1992,InSight,,Mars
+704,1993,InSight,,Mars
+705,1994,InSight,,Mars
+706,1995,InSight,,Mars
+707,1996,InSight,,Mars
+708,1997,InSight,,Mars
+709,1998,InSight,,Mars
+710,1999,InSight,,Mars
+711,2000,InSight,,Mars
+712,2001,InSight,,Mars
+713,2002,InSight,,Mars
+714,2003,InSight,,Mars
+715,2004,InSight,,Mars
+716,2005,InSight,,Mars
+717,2006,InSight,,Mars
+718,2007,InSight,,Mars
+719,2008,InSight,,Mars
+720,2009,InSight,,Mars
+721,2010,InSight,,Mars
+722,2011,InSight,3,Mars
+723,2012,InSight,62,Mars
+724,2013,InSight,122.7,Mars
+725,2014,InSight,203.3,Mars
+726,2015,InSight,170,Mars
+727,2016,InSight,92.1,Mars
+728,2017,InSight,32.3,Mars
+729,2018,InSight,74.3,Mars
+730,2019,InSight,23.1,Mars
+731,2020,InSight,11.8,Mars
+732,2021,InSight,11.8,Mars
+733,2022,InSight,8.8,Mars
+734,2023,InSight,8.8,Mars
+735,2024,InSight,,Mars
+736,2025,InSight,,Mars
+737,1960,Juno,,Jupiter
+738,1961,Juno,,Jupiter
+739,1962,Juno,,Jupiter
+740,1963,Juno,,Jupiter
+741,1964,Juno,,Jupiter
+742,1965,Juno,,Jupiter
+743,1966,Juno,,Jupiter
+744,1967,Juno,,Jupiter
+745,1968,Juno,,Jupiter
+746,1969,Juno,,Jupiter
+747,1970,Juno,,Jupiter
+748,1971,Juno,,Jupiter
+749,1972,Juno,,Jupiter
+750,1973,Juno,,Jupiter
+751,1974,Juno,,Jupiter
+752,1975,Juno,,Jupiter
+753,1976,Juno,,Jupiter
+755,1977,Juno,,Jupiter
+756,1978,Juno,,Jupiter
+757,1979,Juno,,Jupiter
+758,1980,Juno,,Jupiter
+759,1981,Juno,,Jupiter
+760,1982,Juno,,Jupiter
+761,1983,Juno,,Jupiter
+762,1984,Juno,,Jupiter
+763,1985,Juno,,Jupiter
+764,1986,Juno,,Jupiter
+765,1987,Juno,,Jupiter
+766,1988,Juno,,Jupiter
+767,1989,Juno,,Jupiter
+768,1990,Juno,,Jupiter
+769,1991,Juno,,Jupiter
+770,1992,Juno,,Jupiter
+771,1993,Juno,,Jupiter
+772,1994,Juno,,Jupiter
+773,1995,Juno,,Jupiter
+774,1996,Juno,,Jupiter
+775,1997,Juno,,Jupiter
+776,1998,Juno,,Jupiter
+777,1999,Juno,,Jupiter
+778,2000,Juno,,Jupiter
+779,2001,Juno,,Jupiter
+780,2002,Juno,,Jupiter
+781,2003,Juno,,Jupiter
+782,2004,Juno,,Jupiter
+783,2005,Juno,2.7,Jupiter
+784,2006,Juno,40.4,Jupiter
+785,2007,Juno,87.8,Jupiter
+786,2008,Juno,95,Jupiter
+787,2009,Juno,260.1,Jupiter
+788,2010,Juno,257.1,Jupiter
+789,2011,Juno,189.2,Jupiter
+790,2012,Juno,14.4,Jupiter
+791,2013,Juno,17.8,Jupiter
+792,2014,Juno,7.7,Jupiter
+793,2015,Juno,35.4,Jupiter
+794,2016,Juno,45.8,Jupiter
+795,2017,Juno,61.9,Jupiter
+796,2018,Juno,17.8,Jupiter
+797,2019,Juno,11.8,Jupiter
+798,2020,Juno,32,Jupiter
+799,2021,Juno,28.4,Jupiter
+800,2022,Juno,18.9,Jupiter
+801,2023,Juno,,Jupiter
+802,2024,Juno,,Jupiter
+803,2025,Juno,,Jupiter
+804,1960,LADEE,,Moon
+805,1961,LADEE,,Moon
+806,1962,LADEE,,Moon
+807,1963,LADEE,,Moon
+808,1964,LADEE,,Moon
+809,1965,LADEE,,Moon
+810,1966,LADEE,,Moon
+811,1967,LADEE,,Moon
+812,1968,LADEE,,Moon
+813,1969,LADEE,,Moon
+814,1970,LADEE,,Moon
+815,1971,LADEE,,Moon
+816,1972,LADEE,,Moon
+817,1973,LADEE,,Moon
+818,1974,LADEE,,Moon
+819,1975,LADEE,,Moon
+820,1976,LADEE,,Moon
+822,1977,LADEE,,Moon
+823,1978,LADEE,,Moon
+824,1979,LADEE,,Moon
+825,1980,LADEE,,Moon
+826,1981,LADEE,,Moon
+827,1982,LADEE,,Moon
+828,1983,LADEE,,Moon
+829,1984,LADEE,,Moon
+830,1985,LADEE,,Moon
+831,1986,LADEE,,Moon
+832,1987,LADEE,,Moon
+833,1988,LADEE,,Moon
+834,1989,LADEE,,Moon
+835,1990,LADEE,,Moon
+836,1991,LADEE,,Moon
+837,1992,LADEE,,Moon
+838,1993,LADEE,,Moon
+839,1994,LADEE,,Moon
+840,1995,LADEE,,Moon
+841,1996,LADEE,,Moon
+842,1997,LADEE,,Moon
+843,1998,LADEE,,Moon
+844,1999,LADEE,,Moon
+845,2000,LADEE,,Moon
+846,2001,LADEE,,Moon
+847,2002,LADEE,,Moon
+848,2003,LADEE,,Moon
+849,2004,LADEE,,Moon
+850,2005,LADEE,,Moon
+851,2006,LADEE,,Moon
+852,2007,LADEE,,Moon
+853,2008,LADEE,5.1,Moon
+854,2009,LADEE,30.2,Moon
+855,2010,LADEE,48.2,Moon
+856,2011,LADEE,64.5,Moon
+857,2012,LADEE,70.4,Moon
+858,2013,LADEE,48.7,Moon
+859,2014,LADEE,8.5,Moon
+860,2015,LADEE,,Moon
+861,2016,LADEE,,Moon
+862,2017,LADEE,,Moon
+863,2018,LADEE,,Moon
+864,2019,LADEE,,Moon
+865,2020,LADEE,,Moon
+866,2021,LADEE,,Moon
+867,2022,LADEE,,Moon
+868,2023,LADEE,,Moon
+869,2024,LADEE,,Moon
+870,2025,LADEE,,Moon
+871,1960,Lucy,,Asteroid
+872,1961,Lucy,,Asteroid
+873,1962,Lucy,,Asteroid
+874,1963,Lucy,,Asteroid
+875,1964,Lucy,,Asteroid
+876,1965,Lucy,,Asteroid
+877,1966,Lucy,,Asteroid
+878,1967,Lucy,,Asteroid
+879,1968,Lucy,,Asteroid
+880,1969,Lucy,,Asteroid
+881,1970,Lucy,,Asteroid
+882,1971,Lucy,,Asteroid
+883,1972,Lucy,,Asteroid
+884,1973,Lucy,,Asteroid
+885,1974,Lucy,,Asteroid
+886,1975,Lucy,,Asteroid
+887,1976,Lucy,,Asteroid
+889,1977,Lucy,,Asteroid
+890,1978,Lucy,,Asteroid
+891,1979,Lucy,,Asteroid
+892,1980,Lucy,,Asteroid
+893,1981,Lucy,,Asteroid
+894,1982,Lucy,,Asteroid
+895,1983,Lucy,,Asteroid
+896,1984,Lucy,,Asteroid
+897,1985,Lucy,,Asteroid
+898,1986,Lucy,,Asteroid
+899,1987,Lucy,,Asteroid
+900,1988,Lucy,,Asteroid
+901,1989,Lucy,,Asteroid
+902,1990,Lucy,,Asteroid
+903,1991,Lucy,,Asteroid
+904,1992,Lucy,,Asteroid
+905,1993,Lucy,,Asteroid
+906,1994,Lucy,,Asteroid
+907,1995,Lucy,,Asteroid
+908,1996,Lucy,,Asteroid
+909,1997,Lucy,,Asteroid
+910,1998,Lucy,,Asteroid
+911,1999,Lucy,,Asteroid
+912,2000,Lucy,,Asteroid
+913,2001,Lucy,,Asteroid
+914,2002,Lucy,,Asteroid
+915,2003,Lucy,,Asteroid
+916,2004,Lucy,,Asteroid
+917,2005,Lucy,,Asteroid
+918,2006,Lucy,,Asteroid
+919,2007,Lucy,,Asteroid
+920,2008,Lucy,,Asteroid
+921,2009,Lucy,,Asteroid
+922,2010,Lucy,,Asteroid
+923,2011,Lucy,,Asteroid
+924,2012,Lucy,,Asteroid
+925,2013,Lucy,,Asteroid
+926,2014,Lucy,,Asteroid
+927,2015,Lucy,,Asteroid
+928,2016,Lucy,3,Asteroid
+929,2017,Lucy,54.5,Asteroid
+930,2018,Lucy,81.4,Asteroid
+931,2019,Lucy,165.5,Asteroid
+932,2020,Lucy,210.7,Asteroid
+933,2021,Lucy,153.4,Asteroid
+934,2022,Lucy,63.7,Asteroid
+935,2023,Lucy,16.5,Asteroid
+936,2024,Lucy,18.6,Asteroid
+937,2025,Lucy,22.9,Asteroid
+938,1960,Lunar Orbiter,,Moon
+939,1961,Lunar Orbiter,,Moon
+940,1962,Lunar Orbiter,,Moon
+941,1963,Lunar Orbiter,4,Moon
+942,1964,Lunar Orbiter,20,Moon
+943,1965,Lunar Orbiter,58.604,Moon
+944,1966,Lunar Orbiter,72.581,Moon
+945,1967,Lunar Orbiter,35.3,Moon
+946,1968,Lunar Orbiter,10,Moon
+947,1969,Lunar Orbiter,,Moon
+948,1970,Lunar Orbiter,,Moon
+949,1971,Lunar Orbiter,,Moon
+950,1972,Lunar Orbiter,,Moon
+951,1973,Lunar Orbiter,,Moon
+952,1974,Lunar Orbiter,,Moon
+953,1975,Lunar Orbiter,,Moon
+954,1976,Lunar Orbiter,,Moon
+956,1977,Lunar Orbiter,,Moon
+957,1978,Lunar Orbiter,,Moon
+958,1979,Lunar Orbiter,,Moon
+959,1980,Lunar Orbiter,,Moon
+960,1981,Lunar Orbiter,,Moon
+961,1982,Lunar Orbiter,,Moon
+962,1983,Lunar Orbiter,,Moon
+963,1984,Lunar Orbiter,,Moon
+964,1985,Lunar Orbiter,,Moon
+965,1986,Lunar Orbiter,,Moon
+966,1987,Lunar Orbiter,,Moon
+967,1988,Lunar Orbiter,,Moon
+968,1989,Lunar Orbiter,,Moon
+969,1990,Lunar Orbiter,,Moon
+970,1991,Lunar Orbiter,,Moon
+971,1992,Lunar Orbiter,,Moon
+972,1993,Lunar Orbiter,,Moon
+973,1994,Lunar Orbiter,,Moon
+974,1995,Lunar Orbiter,,Moon
+975,1996,Lunar Orbiter,,Moon
+976,1997,Lunar Orbiter,,Moon
+977,1998,Lunar Orbiter,,Moon
+978,1999,Lunar Orbiter,,Moon
+979,2000,Lunar Orbiter,,Moon
+980,2001,Lunar Orbiter,,Moon
+981,2002,Lunar Orbiter,,Moon
+982,2003,Lunar Orbiter,,Moon
+983,2004,Lunar Orbiter,,Moon
+984,2005,Lunar Orbiter,,Moon
+985,2006,Lunar Orbiter,,Moon
+986,2007,Lunar Orbiter,,Moon
+987,2008,Lunar Orbiter,,Moon
+988,2009,Lunar Orbiter,,Moon
+989,2010,Lunar Orbiter,,Moon
+990,2011,Lunar Orbiter,,Moon
+991,2012,Lunar Orbiter,,Moon
+992,2013,Lunar Orbiter,,Moon
+993,2014,Lunar Orbiter,,Moon
+994,2015,Lunar Orbiter,,Moon
+995,2016,Lunar Orbiter,,Moon
+996,2017,Lunar Orbiter,,Moon
+997,2018,Lunar Orbiter,,Moon
+998,2019,Lunar Orbiter,,Moon
+999,2020,Lunar Orbiter,,Moon
+1000,2021,Lunar Orbiter,,Moon
+1001,2022,Lunar Orbiter,,Moon
+1002,2023,Lunar Orbiter,,Moon
+1003,2024,Lunar Orbiter,,Moon
+1004,2025,Lunar Orbiter,,Moon
+1005,1960,Lunar Prospector,,Moon
+1006,1961,Lunar Prospector,,Moon
+1007,1962,Lunar Prospector,,Moon
+1008,1963,Lunar Prospector,,Moon
+1009,1964,Lunar Prospector,,Moon
+1010,1965,Lunar Prospector,,Moon
+1011,1966,Lunar Prospector,,Moon
+1012,1967,Lunar Prospector,,Moon
+1013,1968,Lunar Prospector,,Moon
+1014,1969,Lunar Prospector,,Moon
+1015,1970,Lunar Prospector,,Moon
+1016,1971,Lunar Prospector,,Moon
+1017,1972,Lunar Prospector,,Moon
+1018,1973,Lunar Prospector,,Moon
+1019,1974,Lunar Prospector,,Moon
+1020,1975,Lunar Prospector,,Moon
+1021,1976,Lunar Prospector,,Moon
+1023,1977,Lunar Prospector,,Moon
+1024,1978,Lunar Prospector,,Moon
+1025,1979,Lunar Prospector,,Moon
+1026,1980,Lunar Prospector,,Moon
+1027,1981,Lunar Prospector,,Moon
+1028,1982,Lunar Prospector,,Moon
+1029,1983,Lunar Prospector,,Moon
+1030,1984,Lunar Prospector,,Moon
+1031,1985,Lunar Prospector,,Moon
+1032,1986,Lunar Prospector,,Moon
+1033,1987,Lunar Prospector,,Moon
+1034,1988,Lunar Prospector,,Moon
+1035,1989,Lunar Prospector,,Moon
+1036,1990,Lunar Prospector,,Moon
+1037,1991,Lunar Prospector,,Moon
+1038,1992,Lunar Prospector,,Moon
+1039,1993,Lunar Prospector,,Moon
+1040,1994,Lunar Prospector,,Moon
+1041,1995,Lunar Prospector,,Moon
+1042,1996,Lunar Prospector,36.4,Moon
+1043,1997,Lunar Prospector,20.6,Moon
+1044,1998,Lunar Prospector,4.7,Moon
+1045,1999,Lunar Prospector,2.2,Moon
+1046,2000,Lunar Prospector,,Moon
+1047,2001,Lunar Prospector,,Moon
+1048,2002,Lunar Prospector,,Moon
+1049,2003,Lunar Prospector,,Moon
+1050,2004,Lunar Prospector,,Moon
+1051,2005,Lunar Prospector,,Moon
+1052,2006,Lunar Prospector,,Moon
+1053,2007,Lunar Prospector,,Moon
+1054,2008,Lunar Prospector,,Moon
+1055,2009,Lunar Prospector,,Moon
+1056,2010,Lunar Prospector,,Moon
+1057,2011,Lunar Prospector,,Moon
+1058,2012,Lunar Prospector,,Moon
+1059,2013,Lunar Prospector,,Moon
+1060,2014,Lunar Prospector,,Moon
+1061,2015,Lunar Prospector,,Moon
+1062,2016,Lunar Prospector,,Moon
+1063,2017,Lunar Prospector,,Moon
+1064,2018,Lunar Prospector,,Moon
+1065,2019,Lunar Prospector,,Moon
+1066,2020,Lunar Prospector,,Moon
+1067,2021,Lunar Prospector,,Moon
+1068,2022,Lunar Prospector,,Moon
+1069,2023,Lunar Prospector,,Moon
+1070,2024,Lunar Prospector,,Moon
+1071,2025,Lunar Prospector,,Moon
+1072,1960,Lunar Ranger,19.542,Moon
+1073,1961,Lunar Ranger,45.066,Moon
+1074,1962,Lunar Ranger,63.43,Moon
+1075,1963,Lunar Ranger,71.263,Moon
+1076,1964,Lunar Ranger,30.306,Moon
+1077,1965,Lunar Ranger,11.037,Moon
+1078,1966,Lunar Ranger,1,Moon
+1079,1967,Lunar Ranger,,Moon
+1080,1968,Lunar Ranger,,Moon
+1081,1969,Lunar Ranger,,Moon
+1082,1970,Lunar Ranger,,Moon
+1083,1971,Lunar Ranger,,Moon
+1084,1972,Lunar Ranger,,Moon
+1085,1973,Lunar Ranger,,Moon
+1086,1974,Lunar Ranger,,Moon
+1087,1975,Lunar Ranger,,Moon
+1088,1976,Lunar Ranger,,Moon
+1090,1977,Lunar Ranger,,Moon
+1091,1978,Lunar Ranger,,Moon
+1092,1979,Lunar Ranger,,Moon
+1093,1980,Lunar Ranger,,Moon
+1094,1981,Lunar Ranger,,Moon
+1095,1982,Lunar Ranger,,Moon
+1096,1983,Lunar Ranger,,Moon
+1097,1984,Lunar Ranger,,Moon
+1098,1985,Lunar Ranger,,Moon
+1099,1986,Lunar Ranger,,Moon
+1100,1987,Lunar Ranger,,Moon
+1101,1988,Lunar Ranger,,Moon
+1102,1989,Lunar Ranger,,Moon
+1103,1990,Lunar Ranger,,Moon
+1104,1991,Lunar Ranger,,Moon
+1105,1992,Lunar Ranger,,Moon
+1106,1993,Lunar Ranger,,Moon
+1107,1994,Lunar Ranger,,Moon
+1108,1995,Lunar Ranger,,Moon
+1109,1996,Lunar Ranger,,Moon
+1110,1997,Lunar Ranger,,Moon
+1111,1998,Lunar Ranger,,Moon
+1112,1999,Lunar Ranger,,Moon
+1113,2000,Lunar Ranger,,Moon
+1114,2001,Lunar Ranger,,Moon
+1115,2002,Lunar Ranger,,Moon
+1116,2003,Lunar Ranger,,Moon
+1117,2004,Lunar Ranger,,Moon
+1118,2005,Lunar Ranger,,Moon
+1119,2006,Lunar Ranger,,Moon
+1120,2007,Lunar Ranger,,Moon
+1121,2008,Lunar Ranger,,Moon
+1122,2009,Lunar Ranger,,Moon
+1123,2010,Lunar Ranger,,Moon
+1124,2011,Lunar Ranger,,Moon
+1125,2012,Lunar Ranger,,Moon
+1126,2013,Lunar Ranger,,Moon
+1127,2014,Lunar Ranger,,Moon
+1128,2015,Lunar Ranger,,Moon
+1129,2016,Lunar Ranger,,Moon
+1130,2017,Lunar Ranger,,Moon
+1131,2018,Lunar Ranger,,Moon
+1132,2019,Lunar Ranger,,Moon
+1133,2020,Lunar Ranger,,Moon
+1134,2021,Lunar Ranger,,Moon
+1135,2022,Lunar Ranger,,Moon
+1136,2023,Lunar Ranger,,Moon
+1137,2024,Lunar Ranger,,Moon
+1138,2025,Lunar Ranger,,Moon
+1139,1960,Lunar Surveyor,,Moon
+1140,1961,Lunar Surveyor,7.054,Moon
+1141,1962,Lunar Surveyor,36.825,Moon
+1142,1963,Lunar Surveyor,66.386,Moon
+1143,1964,Lunar Surveyor,102.704,Moon
+1144,1965,Lunar Surveyor,121.878,Moon
+1145,1966,Lunar Surveyor,119.634,Moon
+1146,1967,Lunar Surveyor,87.542,Moon
+1147,1968,Lunar Surveyor,33,Moon
+1148,1969,Lunar Surveyor,,Moon
+1149,1970,Lunar Surveyor,,Moon
+1150,1971,Lunar Surveyor,,Moon
+1151,1972,Lunar Surveyor,,Moon
+1152,1973,Lunar Surveyor,,Moon
+1153,1974,Lunar Surveyor,,Moon
+1154,1975,Lunar Surveyor,,Moon
+1155,1976,Lunar Surveyor,,Moon
+1157,1977,Lunar Surveyor,,Moon
+1158,1978,Lunar Surveyor,,Moon
+1159,1979,Lunar Surveyor,,Moon
+1160,1980,Lunar Surveyor,,Moon
+1161,1981,Lunar Surveyor,,Moon
+1162,1982,Lunar Surveyor,,Moon
+1163,1983,Lunar Surveyor,,Moon
+1164,1984,Lunar Surveyor,,Moon
+1165,1985,Lunar Surveyor,,Moon
+1166,1986,Lunar Surveyor,,Moon
+1167,1987,Lunar Surveyor,,Moon
+1168,1988,Lunar Surveyor,,Moon
+1169,1989,Lunar Surveyor,,Moon
+1170,1990,Lunar Surveyor,,Moon
+1171,1991,Lunar Surveyor,,Moon
+1172,1992,Lunar Surveyor,,Moon
+1173,1993,Lunar Surveyor,,Moon
+1174,1994,Lunar Surveyor,,Moon
+1175,1995,Lunar Surveyor,,Moon
+1176,1996,Lunar Surveyor,,Moon
+1177,1997,Lunar Surveyor,,Moon
+1178,1998,Lunar Surveyor,,Moon
+1179,1999,Lunar Surveyor,,Moon
+1180,2000,Lunar Surveyor,,Moon
+1181,2001,Lunar Surveyor,,Moon
+1182,2002,Lunar Surveyor,,Moon
+1183,2003,Lunar Surveyor,,Moon
+1184,2004,Lunar Surveyor,,Moon
+1185,2005,Lunar Surveyor,,Moon
+1186,2006,Lunar Surveyor,,Moon
+1187,2007,Lunar Surveyor,,Moon
+1188,2008,Lunar Surveyor,,Moon
+1189,2009,Lunar Surveyor,,Moon
+1190,2010,Lunar Surveyor,,Moon
+1191,2011,Lunar Surveyor,,Moon
+1192,2012,Lunar Surveyor,,Moon
+1193,2013,Lunar Surveyor,,Moon
+1194,2014,Lunar Surveyor,,Moon
+1195,2015,Lunar Surveyor,,Moon
+1196,2016,Lunar Surveyor,,Moon
+1197,2017,Lunar Surveyor,,Moon
+1198,2018,Lunar Surveyor,,Moon
+1199,2019,Lunar Surveyor,,Moon
+1200,2020,Lunar Surveyor,,Moon
+1201,2021,Lunar Surveyor,,Moon
+1202,2022,Lunar Surveyor,,Moon
+1203,2023,Lunar Surveyor,,Moon
+1204,2024,Lunar Surveyor,,Moon
+1205,2025,Lunar Surveyor,,Moon
+1206,1960,Magellan,,Venus
+1207,1961,Magellan,,Venus
+1208,1962,Magellan,,Venus
+1209,1963,Magellan,,Venus
+1210,1964,Magellan,,Venus
+1211,1965,Magellan,,Venus
+1212,1966,Magellan,,Venus
+1213,1967,Magellan,,Venus
+1214,1968,Magellan,,Venus
+1215,1969,Magellan,,Venus
+1216,1970,Magellan,,Venus
+1217,1971,Magellan,,Venus
+1218,1972,Magellan,,Venus
+1219,1973,Magellan,,Venus
+1220,1974,Magellan,,Venus
+1221,1975,Magellan,,Venus
+1222,1976,Magellan,,Venus
+1224,1977,Magellan,,Venus
+1225,1978,Magellan,,Venus
+1226,1979,Magellan,,Venus
+1227,1980,Magellan,,Venus
+1228,1981,Magellan,,Venus
+1229,1982,Magellan,,Venus
+1230,1983,Magellan,,Venus
+1231,1984,Magellan,29,Venus
+1232,1985,Magellan,92.5,Venus
+1233,1986,Magellan,120.3,Venus
+1234,1987,Magellan,105.3,Venus
+1235,1988,Magellan,73,Venus
+1236,1989,Magellan,60.2,Venus
+1237,1990,Magellan,41.207,Venus
+1238,1991,Magellan,43.3,Venus
+1239,1992,Magellan,45.1,Venus
+1240,1993,Magellan,7,Venus
+1241,1994,Magellan,11.8,Venus
+1242,1995,Magellan,,Venus
+1243,1996,Magellan,,Venus
+1244,1997,Magellan,,Venus
+1245,1998,Magellan,,Venus
+1246,1999,Magellan,,Venus
+1247,2000,Magellan,,Venus
+1248,2001,Magellan,,Venus
+1249,2002,Magellan,,Venus
+1250,2003,Magellan,,Venus
+1251,2004,Magellan,,Venus
+1252,2005,Magellan,,Venus
+1253,2006,Magellan,,Venus
+1254,2007,Magellan,,Venus
+1255,2008,Magellan,,Venus
+1256,2009,Magellan,,Venus
+1257,2010,Magellan,,Venus
+1258,2011,Magellan,,Venus
+1259,2012,Magellan,,Venus
+1260,2013,Magellan,,Venus
+1261,2014,Magellan,,Venus
+1262,2015,Magellan,,Venus
+1263,2016,Magellan,,Venus
+1264,2017,Magellan,,Venus
+1265,2018,Magellan,,Venus
+1266,2019,Magellan,,Venus
+1267,2020,Magellan,,Venus
+1268,2021,Magellan,,Venus
+1269,2022,Magellan,,Venus
+1270,2023,Magellan,,Venus
+1271,2024,Magellan,,Venus
+1272,2025,Magellan,,Venus
+1273,1960,Mariner 1 and 2,,Venus
+1274,1961,Mariner 1 and 2,,Venus
+1275,1962,Mariner 1 and 2,13.226,Venus
+1276,1963,Mariner 1 and 2,7.7,Venus
+1277,1964,Mariner 1 and 2,,Venus
+1278,1965,Mariner 1 and 2,,Venus
+1279,1966,Mariner 1 and 2,,Venus
+1280,1967,Mariner 1 and 2,,Venus
+1281,1968,Mariner 1 and 2,,Venus
+1282,1969,Mariner 1 and 2,,Venus
+1283,1970,Mariner 1 and 2,,Venus
+1284,1971,Mariner 1 and 2,,Venus
+1285,1972,Mariner 1 and 2,,Venus
+1286,1973,Mariner 1 and 2,,Venus
+1287,1974,Mariner 1 and 2,,Venus
+1288,1975,Mariner 1 and 2,,Venus
+1289,1976,Mariner 1 and 2,,Venus
+1291,1977,Mariner 1 and 2,,Venus
+1292,1978,Mariner 1 and 2,,Venus
+1293,1979,Mariner 1 and 2,,Venus
+1294,1980,Mariner 1 and 2,,Venus
+1295,1981,Mariner 1 and 2,,Venus
+1296,1982,Mariner 1 and 2,,Venus
+1297,1983,Mariner 1 and 2,,Venus
+1298,1984,Mariner 1 and 2,,Venus
+1299,1985,Mariner 1 and 2,,Venus
+1300,1986,Mariner 1 and 2,,Venus
+1301,1987,Mariner 1 and 2,,Venus
+1302,1988,Mariner 1 and 2,,Venus
+1303,1989,Mariner 1 and 2,,Venus
+1304,1990,Mariner 1 and 2,,Venus
+1305,1991,Mariner 1 and 2,,Venus
+1306,1992,Mariner 1 and 2,,Venus
+1307,1993,Mariner 1 and 2,,Venus
+1308,1994,Mariner 1 and 2,,Venus
+1309,1995,Mariner 1 and 2,,Venus
+1310,1996,Mariner 1 and 2,,Venus
+1311,1997,Mariner 1 and 2,,Venus
+1312,1998,Mariner 1 and 2,,Venus
+1313,1999,Mariner 1 and 2,,Venus
+1314,2000,Mariner 1 and 2,,Venus
+1315,2001,Mariner 1 and 2,,Venus
+1316,2002,Mariner 1 and 2,,Venus
+1317,2003,Mariner 1 and 2,,Venus
+1318,2004,Mariner 1 and 2,,Venus
+1319,2005,Mariner 1 and 2,,Venus
+1320,2006,Mariner 1 and 2,,Venus
+1321,2007,Mariner 1 and 2,,Venus
+1322,2008,Mariner 1 and 2,,Venus
+1323,2009,Mariner 1 and 2,,Venus
+1324,2010,Mariner 1 and 2,,Venus
+1325,2011,Mariner 1 and 2,,Venus
+1326,2012,Mariner 1 and 2,,Venus
+1327,2013,Mariner 1 and 2,,Venus
+1328,2014,Mariner 1 and 2,,Venus
+1329,2015,Mariner 1 and 2,,Venus
+1330,2016,Mariner 1 and 2,,Venus
+1331,2017,Mariner 1 and 2,,Venus
+1332,2018,Mariner 1 and 2,,Venus
+1333,2019,Mariner 1 and 2,,Venus
+1334,2020,Mariner 1 and 2,,Venus
+1335,2021,Mariner 1 and 2,,Venus
+1336,2022,Mariner 1 and 2,,Venus
+1337,2023,Mariner 1 and 2,,Venus
+1338,2024,Mariner 1 and 2,,Venus
+1339,2025,Mariner 1 and 2,,Venus
+1340,1960,Mariner 3 and 4,,Mars
+1341,1961,Mariner 3 and 4,,Mars
+1342,1962,Mariner 3 and 4,,Mars
+1343,1963,Mariner 3 and 4,31.8,Mars
+1344,1964,Mariner 3 and 4,28.36,Mars
+1345,1965,Mariner 3 and 4,16.2,Mars
+1346,1966,Mariner 3 and 4,2.335,Mars
+1347,1967,Mariner 3 and 4,1,Mars
+1348,1968,Mariner 3 and 4,,Mars
+1349,1969,Mariner 3 and 4,,Mars
+1350,1970,Mariner 3 and 4,,Mars
+1351,1971,Mariner 3 and 4,,Mars
+1352,1972,Mariner 3 and 4,,Mars
+1353,1973,Mariner 3 and 4,,Mars
+1354,1974,Mariner 3 and 4,,Mars
+1355,1975,Mariner 3 and 4,,Mars
+1356,1976,Mariner 3 and 4,,Mars
+1358,1977,Mariner 3 and 4,,Mars
+1359,1978,Mariner 3 and 4,,Mars
+1360,1979,Mariner 3 and 4,,Mars
+1361,1980,Mariner 3 and 4,,Mars
+1362,1981,Mariner 3 and 4,,Mars
+1363,1982,Mariner 3 and 4,,Mars
+1364,1983,Mariner 3 and 4,,Mars
+1365,1984,Mariner 3 and 4,,Mars
+1366,1985,Mariner 3 and 4,,Mars
+1367,1986,Mariner 3 and 4,,Mars
+1368,1987,Mariner 3 and 4,,Mars
+1369,1988,Mariner 3 and 4,,Mars
+1370,1989,Mariner 3 and 4,,Mars
+1371,1990,Mariner 3 and 4,,Mars
+1372,1991,Mariner 3 and 4,,Mars
+1373,1992,Mariner 3 and 4,,Mars
+1374,1993,Mariner 3 and 4,,Mars
+1375,1994,Mariner 3 and 4,,Mars
+1376,1995,Mariner 3 and 4,,Mars
+1377,1996,Mariner 3 and 4,,Mars
+1378,1997,Mariner 3 and 4,,Mars
+1379,1998,Mariner 3 and 4,,Mars
+1380,1999,Mariner 3 and 4,,Mars
+1381,2000,Mariner 3 and 4,,Mars
+1382,2001,Mariner 3 and 4,,Mars
+1383,2002,Mariner 3 and 4,,Mars
+1384,2003,Mariner 3 and 4,,Mars
+1385,2004,Mariner 3 and 4,,Mars
+1386,2005,Mariner 3 and 4,,Mars
+1387,2006,Mariner 3 and 4,,Mars
+1388,2007,Mariner 3 and 4,,Mars
+1389,2008,Mariner 3 and 4,,Mars
+1390,2009,Mariner 3 and 4,,Mars
+1391,2010,Mariner 3 and 4,,Mars
+1392,2011,Mariner 3 and 4,,Mars
+1393,2012,Mariner 3 and 4,,Mars
+1394,2013,Mariner 3 and 4,,Mars
+1395,2014,Mariner 3 and 4,,Mars
+1396,2015,Mariner 3 and 4,,Mars
+1397,2016,Mariner 3 and 4,,Mars
+1398,2017,Mariner 3 and 4,,Mars
+1399,2018,Mariner 3 and 4,,Mars
+1400,2019,Mariner 3 and 4,,Mars
+1401,2020,Mariner 3 and 4,,Mars
+1402,2021,Mariner 3 and 4,,Mars
+1403,2022,Mariner 3 and 4,,Mars
+1404,2023,Mariner 3 and 4,,Mars
+1405,2024,Mariner 3 and 4,,Mars
+1406,2025,Mariner 3 and 4,,Mars
+1407,1960,Mariner 5,,Venus
+1408,1961,Mariner 5,,Venus
+1409,1962,Mariner 5,,Venus
+1410,1963,Mariner 5,,Venus
+1411,1964,Mariner 5,,Venus
+1412,1965,Mariner 5,,Venus
+1413,1966,Mariner 5,10.9,Venus
+1414,1967,Mariner 5,12.058,Venus
+1415,1968,Mariner 5,3.4,Venus
+1416,1969,Mariner 5,,Venus
+1417,1970,Mariner 5,,Venus
+1418,1971,Mariner 5,,Venus
+1419,1972,Mariner 5,,Venus
+1420,1973,Mariner 5,,Venus
+1421,1974,Mariner 5,,Venus
+1422,1975,Mariner 5,,Venus
+1423,1976,Mariner 5,,Venus
+1425,1977,Mariner 5,,Venus
+1426,1978,Mariner 5,,Venus
+1427,1979,Mariner 5,,Venus
+1428,1980,Mariner 5,,Venus
+1429,1981,Mariner 5,,Venus
+1430,1982,Mariner 5,,Venus
+1431,1983,Mariner 5,,Venus
+1432,1984,Mariner 5,,Venus
+1433,1985,Mariner 5,,Venus
+1434,1986,Mariner 5,,Venus
+1435,1987,Mariner 5,,Venus
+1436,1988,Mariner 5,,Venus
+1437,1989,Mariner 5,,Venus
+1438,1990,Mariner 5,,Venus
+1439,1991,Mariner 5,,Venus
+1440,1992,Mariner 5,,Venus
+1441,1993,Mariner 5,,Venus
+1442,1994,Mariner 5,,Venus
+1443,1995,Mariner 5,,Venus
+1444,1996,Mariner 5,,Venus
+1445,1997,Mariner 5,,Venus
+1446,1998,Mariner 5,,Venus
+1447,1999,Mariner 5,,Venus
+1448,2000,Mariner 5,,Venus
+1449,2001,Mariner 5,,Venus
+1450,2002,Mariner 5,,Venus
+1451,2003,Mariner 5,,Venus
+1452,2004,Mariner 5,,Venus
+1453,2005,Mariner 5,,Venus
+1454,2006,Mariner 5,,Venus
+1455,2007,Mariner 5,,Venus
+1456,2008,Mariner 5,,Venus
+1457,2009,Mariner 5,,Venus
+1458,2010,Mariner 5,,Venus
+1459,2011,Mariner 5,,Venus
+1460,2012,Mariner 5,,Venus
+1461,2013,Mariner 5,,Venus
+1462,2014,Mariner 5,,Venus
+1463,2015,Mariner 5,,Venus
+1464,2016,Mariner 5,,Venus
+1465,2017,Mariner 5,,Venus
+1466,2018,Mariner 5,,Venus
+1467,2019,Mariner 5,,Venus
+1468,2020,Mariner 5,,Venus
+1469,2021,Mariner 5,,Venus
+1470,2022,Mariner 5,,Venus
+1471,2023,Mariner 5,,Venus
+1472,2024,Mariner 5,,Venus
+1473,2025,Mariner 5,,Venus
+1474,1960,Mariner 6 and 7,,Mars
+1475,1961,Mariner 6 and 7,,Mars
+1476,1962,Mariner 6 and 7,,Mars
+1477,1963,Mariner 6 and 7,,Mars
+1478,1964,Mariner 6 and 7,,Mars
+1479,1965,Mariner 6 and 7,,Mars
+1480,1966,Mariner 6 and 7,,Mars
+1481,1967,Mariner 6 and 7,30.13,Mars
+1482,1968,Mariner 6 and 7,62.85,Mars
+1483,1969,Mariner 6 and 7,26.13,Mars
+1484,1970,Mariner 6 and 7,3.715,Mars
+1485,1971,Mariner 6 and 7,0.188,Mars
+1486,1972,Mariner 6 and 7,,Mars
+1487,1973,Mariner 6 and 7,,Mars
+1488,1974,Mariner 6 and 7,,Mars
+1489,1975,Mariner 6 and 7,,Mars
+1490,1976,Mariner 6 and 7,,Mars
+1492,1977,Mariner 6 and 7,,Mars
+1493,1978,Mariner 6 and 7,,Mars
+1494,1979,Mariner 6 and 7,,Mars
+1495,1980,Mariner 6 and 7,,Mars
+1496,1981,Mariner 6 and 7,,Mars
+1497,1982,Mariner 6 and 7,,Mars
+1498,1983,Mariner 6 and 7,,Mars
+1499,1984,Mariner 6 and 7,,Mars
+1500,1985,Mariner 6 and 7,,Mars
+1501,1986,Mariner 6 and 7,,Mars
+1502,1987,Mariner 6 and 7,,Mars
+1503,1988,Mariner 6 and 7,,Mars
+1504,1989,Mariner 6 and 7,,Mars
+1505,1990,Mariner 6 and 7,,Mars
+1506,1991,Mariner 6 and 7,,Mars
+1507,1992,Mariner 6 and 7,,Mars
+1508,1993,Mariner 6 and 7,,Mars
+1509,1994,Mariner 6 and 7,,Mars
+1510,1995,Mariner 6 and 7,,Mars
+1511,1996,Mariner 6 and 7,,Mars
+1512,1997,Mariner 6 and 7,,Mars
+1513,1998,Mariner 6 and 7,,Mars
+1514,1999,Mariner 6 and 7,,Mars
+1515,2000,Mariner 6 and 7,,Mars
+1516,2001,Mariner 6 and 7,,Mars
+1517,2002,Mariner 6 and 7,,Mars
+1518,2003,Mariner 6 and 7,,Mars
+1519,2004,Mariner 6 and 7,,Mars
+1520,2005,Mariner 6 and 7,,Mars
+1521,2006,Mariner 6 and 7,,Mars
+1522,2007,Mariner 6 and 7,,Mars
+1523,2008,Mariner 6 and 7,,Mars
+1524,2009,Mariner 6 and 7,,Mars
+1525,2010,Mariner 6 and 7,,Mars
+1526,2011,Mariner 6 and 7,,Mars
+1527,2012,Mariner 6 and 7,,Mars
+1528,2013,Mariner 6 and 7,,Mars
+1529,2014,Mariner 6 and 7,,Mars
+1530,2015,Mariner 6 and 7,,Mars
+1531,2016,Mariner 6 and 7,,Mars
+1532,2017,Mariner 6 and 7,,Mars
+1533,2018,Mariner 6 and 7,,Mars
+1534,2019,Mariner 6 and 7,,Mars
+1535,2020,Mariner 6 and 7,,Mars
+1536,2021,Mariner 6 and 7,,Mars
+1537,2022,Mariner 6 and 7,,Mars
+1538,2023,Mariner 6 and 7,,Mars
+1539,2024,Mariner 6 and 7,,Mars
+1540,2025,Mariner 6 and 7,,Mars
+1541,1960,Mariner 6 and 7,,Mars
+1542,1961,Mariner 6 and 7,,Mars
+1543,1962,Mariner 6 and 7,,Mars
+1544,1963,Mariner 6 and 7,,Mars
+1545,1964,Mariner 6 and 7,,Mars
+1546,1965,Mariner 6 and 7,,Mars
+1547,1966,Mariner 6 and 7,,Mars
+1548,1967,Mariner 6 and 7,,Mars
+1549,1968,Mariner 6 and 7,,Mars
+1550,1969,Mariner 6 and 7,31.619,Mars
+1551,1970,Mariner 6 and 7,68.456,Mars
+1552,1971,Mariner 6 and 7,31.291,Mars
+1553,1972,Mariner 6 and 7,17,Mars
+1554,1973,Mariner 6 and 7,7.176,Mars
+1555,1974,Mariner 6 and 7,,Mars
+1556,1975,Mariner 6 and 7,,Mars
+1557,1976,Mariner 6 and 7,,Mars
+1559,1977,Mariner 6 and 7,,Mars
+1560,1978,Mariner 6 and 7,,Mars
+1561,1979,Mariner 6 and 7,,Mars
+1562,1980,Mariner 6 and 7,,Mars
+1563,1981,Mariner 6 and 7,,Mars
+1564,1982,Mariner 6 and 7,,Mars
+1565,1983,Mariner 6 and 7,,Mars
+1566,1984,Mariner 6 and 7,,Mars
+1567,1985,Mariner 6 and 7,,Mars
+1568,1986,Mariner 6 and 7,,Mars
+1569,1987,Mariner 6 and 7,,Mars
+1570,1988,Mariner 6 and 7,,Mars
+1571,1989,Mariner 6 and 7,,Mars
+1572,1990,Mariner 6 and 7,,Mars
+1573,1991,Mariner 6 and 7,,Mars
+1574,1992,Mariner 6 and 7,,Mars
+1575,1993,Mariner 6 and 7,,Mars
+1576,1994,Mariner 6 and 7,,Mars
+1577,1995,Mariner 6 and 7,,Mars
+1578,1996,Mariner 6 and 7,,Mars
+1579,1997,Mariner 6 and 7,,Mars
+1580,1998,Mariner 6 and 7,,Mars
+1581,1999,Mariner 6 and 7,,Mars
+1582,2000,Mariner 6 and 7,,Mars
+1583,2001,Mariner 6 and 7,,Mars
+1584,2002,Mariner 6 and 7,,Mars
+1585,2003,Mariner 6 and 7,,Mars
+1586,2004,Mariner 6 and 7,,Mars
+1587,2005,Mariner 6 and 7,,Mars
+1588,2006,Mariner 6 and 7,,Mars
+1589,2007,Mariner 6 and 7,,Mars
+1590,2008,Mariner 6 and 7,,Mars
+1591,2009,Mariner 6 and 7,,Mars
+1592,2010,Mariner 6 and 7,,Mars
+1593,2011,Mariner 6 and 7,,Mars
+1594,2012,Mariner 6 and 7,,Mars
+1595,2013,Mariner 6 and 7,,Mars
+1596,2014,Mariner 6 and 7,,Mars
+1597,2015,Mariner 6 and 7,,Mars
+1598,2016,Mariner 6 and 7,,Mars
+1599,2017,Mariner 6 and 7,,Mars
+1600,2018,Mariner 6 and 7,,Mars
+1601,2019,Mariner 6 and 7,,Mars
+1602,2020,Mariner 6 and 7,,Mars
+1603,2021,Mariner 6 and 7,,Mars
+1604,2022,Mariner 6 and 7,,Mars
+1605,2023,Mariner 6 and 7,,Mars
+1606,2024,Mariner 6 and 7,,Mars
+1607,2025,Mariner 6 and 7,,Mars
+1608,1960,Mariner 10,,Mercury
+1609,1961,Mariner 10,,Mercury
+1610,1962,Mariner 10,,Mercury
+1611,1963,Mariner 10,,Mercury
+1612,1964,Mariner 10,,Mercury
+1613,1965,Mariner 10,,Mercury
+1614,1966,Mariner 10,,Mercury
+1615,1967,Mariner 10,,Mercury
+1616,1968,Mariner 10,,Mercury
+1617,1969,Mariner 10,,Mercury
+1618,1970,Mariner 10,0.9,Mercury
+1619,1971,Mariner 10,13.406,Mercury
+1620,1972,Mariner 10,52.4,Mercury
+1621,1973,Mariner 10,37.307,Mercury
+1622,1974,Mariner 10,11.17,Mercury
+1623,1975,Mariner 10,5.324,Mercury
+1624,1976,Mariner 10,,Mercury
+1626,1977,Mariner 10,,Mercury
+1627,1978,Mariner 10,,Mercury
+1628,1979,Mariner 10,,Mercury
+1629,1980,Mariner 10,,Mercury
+1630,1981,Mariner 10,,Mercury
+1631,1982,Mariner 10,,Mercury
+1632,1983,Mariner 10,,Mercury
+1633,1984,Mariner 10,,Mercury
+1634,1985,Mariner 10,,Mercury
+1635,1986,Mariner 10,,Mercury
+1636,1987,Mariner 10,,Mercury
+1637,1988,Mariner 10,,Mercury
+1638,1989,Mariner 10,,Mercury
+1639,1990,Mariner 10,,Mercury
+1640,1991,Mariner 10,,Mercury
+1641,1992,Mariner 10,,Mercury
+1642,1993,Mariner 10,,Mercury
+1643,1994,Mariner 10,,Mercury
+1644,1995,Mariner 10,,Mercury
+1645,1996,Mariner 10,,Mercury
+1646,1997,Mariner 10,,Mercury
+1647,1998,Mariner 10,,Mercury
+1648,1999,Mariner 10,,Mercury
+1649,2000,Mariner 10,,Mercury
+1650,2001,Mariner 10,,Mercury
+1651,2002,Mariner 10,,Mercury
+1652,2003,Mariner 10,,Mercury
+1653,2004,Mariner 10,,Mercury
+1654,2005,Mariner 10,,Mercury
+1655,2006,Mariner 10,,Mercury
+1656,2007,Mariner 10,,Mercury
+1657,2008,Mariner 10,,Mercury
+1658,2009,Mariner 10,,Mercury
+1659,2010,Mariner 10,,Mercury
+1660,2011,Mariner 10,,Mercury
+1661,2012,Mariner 10,,Mercury
+1662,2013,Mariner 10,,Mercury
+1663,2014,Mariner 10,,Mercury
+1664,2015,Mariner 10,,Mercury
+1665,2016,Mariner 10,,Mercury
+1666,2017,Mariner 10,,Mercury
+1667,2018,Mariner 10,,Mercury
+1668,2019,Mariner 10,,Mercury
+1669,2020,Mariner 10,,Mercury
+1670,2021,Mariner 10,,Mercury
+1671,2022,Mariner 10,,Mercury
+1672,2023,Mariner 10,,Mercury
+1673,2024,Mariner 10,,Mercury
+1674,2025,Mariner 10,,Mercury
+1675,1960,Mars Perseverance,,Mars
+1676,1961,Mars Perseverance,,Mars
+1677,1962,Mars Perseverance,,Mars
+1678,1963,Mars Perseverance,,Mars
+1679,1964,Mars Perseverance,,Mars
+1680,1965,Mars Perseverance,,Mars
+1681,1966,Mars Perseverance,,Mars
+1682,1967,Mars Perseverance,,Mars
+1683,1968,Mars Perseverance,,Mars
+1684,1969,Mars Perseverance,,Mars
+1685,1970,Mars Perseverance,,Mars
+1686,1971,Mars Perseverance,,Mars
+1687,1972,Mars Perseverance,,Mars
+1688,1973,Mars Perseverance,,Mars
+1689,1974,Mars Perseverance,,Mars
+1690,1975,Mars Perseverance,,Mars
+1691,1976,Mars Perseverance,,Mars
+1693,1977,Mars Perseverance,,Mars
+1694,1978,Mars Perseverance,,Mars
+1695,1979,Mars Perseverance,,Mars
+1696,1980,Mars Perseverance,,Mars
+1697,1981,Mars Perseverance,,Mars
+1698,1982,Mars Perseverance,,Mars
+1699,1983,Mars Perseverance,,Mars
+1700,1984,Mars Perseverance,,Mars
+1701,1985,Mars Perseverance,,Mars
+1702,1986,Mars Perseverance,,Mars
+1703,1987,Mars Perseverance,,Mars
+1704,1988,Mars Perseverance,,Mars
+1705,1989,Mars Perseverance,,Mars
+1706,1990,Mars Perseverance,,Mars
+1707,1991,Mars Perseverance,,Mars
+1708,1992,Mars Perseverance,,Mars
+1709,1993,Mars Perseverance,,Mars
+1710,1994,Mars Perseverance,,Mars
+1711,1995,Mars Perseverance,,Mars
+1712,1996,Mars Perseverance,,Mars
+1713,1997,Mars Perseverance,,Mars
+1714,1998,Mars Perseverance,,Mars
+1715,1999,Mars Perseverance,,Mars
+1716,2000,Mars Perseverance,,Mars
+1717,2001,Mars Perseverance,,Mars
+1718,2002,Mars Perseverance,,Mars
+1719,2003,Mars Perseverance,,Mars
+1720,2004,Mars Perseverance,,Mars
+1721,2005,Mars Perseverance,,Mars
+1722,2006,Mars Perseverance,,Mars
+1723,2007,Mars Perseverance,,Mars
+1724,2008,Mars Perseverance,,Mars
+1725,2009,Mars Perseverance,,Mars
+1726,2010,Mars Perseverance,,Mars
+1727,2011,Mars Perseverance,,Mars
+1728,2012,Mars Perseverance,,Mars
+1729,2013,Mars Perseverance,78.43333333,Mars
+1730,2014,Mars Perseverance,85.33333333,Mars
+1731,2015,Mars Perseverance,110.6333333,Mars
+1732,2016,Mars Perseverance,346.5,Mars
+1733,2017,Mars Perseverance,425.2,Mars
+1734,2018,Mars Perseverance,536.6,Mars
+1735,2019,Mars Perseverance,515.3,Mars
+1736,2020,Mars Perseverance,353,Mars
+1737,2021,Mars Perseverance,167.9,Mars
+1738,2022,Mars Perseverance,100.5,Mars
+1739,2023,Mars Perseverance,35.1,Mars
+1740,2024,Mars Perseverance,,Mars
+1741,2025,Mars Perseverance,,Mars
+1742,1960,Mars Observer,,Mars
+1743,1961,Mars Observer,,Mars
+1744,1962,Mars Observer,,Mars
+1745,1963,Mars Observer,,Mars
+1746,1964,Mars Observer,,Mars
+1747,1965,Mars Observer,,Mars
+1748,1966,Mars Observer,,Mars
+1749,1967,Mars Observer,,Mars
+1750,1968,Mars Observer,,Mars
+1751,1969,Mars Observer,,Mars
+1752,1970,Mars Observer,,Mars
+1753,1971,Mars Observer,,Mars
+1754,1972,Mars Observer,,Mars
+1755,1973,Mars Observer,,Mars
+1756,1974,Mars Observer,,Mars
+1757,1975,Mars Observer,,Mars
+1758,1976,Mars Observer,,Mars
+1760,1977,Mars Observer,,Mars
+1761,1978,Mars Observer,,Mars
+1762,1979,Mars Observer,,Mars
+1763,1980,Mars Observer,,Mars
+1764,1981,Mars Observer,,Mars
+1765,1982,Mars Observer,,Mars
+1766,1983,Mars Observer,,Mars
+1767,1984,Mars Observer,,Mars
+1768,1985,Mars Observer,13,Mars
+1769,1986,Mars Observer,33.8,Mars
+1770,1987,Mars Observer,35.8,Mars
+1771,1988,Mars Observer,53.9,Mars
+1772,1989,Mars Observer,120,Mars
+1773,1990,Mars Observer,166.122,Mars
+1774,1991,Mars Observer,199.428,Mars
+1775,1992,Mars Observer,124.4,Mars
+1776,1993,Mars Observer,21.2,Mars
+1777,1994,Mars Observer,,Mars
+1778,1995,Mars Observer,,Mars
+1779,1996,Mars Observer,,Mars
+1780,1997,Mars Observer,,Mars
+1781,1998,Mars Observer,,Mars
+1782,1999,Mars Observer,,Mars
+1783,2000,Mars Observer,,Mars
+1784,2001,Mars Observer,,Mars
+1785,2002,Mars Observer,,Mars
+1786,2003,Mars Observer,,Mars
+1787,2004,Mars Observer,,Mars
+1788,2005,Mars Observer,,Mars
+1789,2006,Mars Observer,,Mars
+1790,2007,Mars Observer,,Mars
+1791,2008,Mars Observer,,Mars
+1792,2009,Mars Observer,,Mars
+1793,2010,Mars Observer,,Mars
+1794,2011,Mars Observer,,Mars
+1795,2012,Mars Observer,,Mars
+1796,2013,Mars Observer,,Mars
+1797,2014,Mars Observer,,Mars
+1798,2015,Mars Observer,,Mars
+1799,2016,Mars Observer,,Mars
+1800,2017,Mars Observer,,Mars
+1801,2018,Mars Observer,,Mars
+1802,2019,Mars Observer,,Mars
+1803,2020,Mars Observer,,Mars
+1804,2021,Mars Observer,,Mars
+1805,2022,Mars Observer,,Mars
+1806,2023,Mars Observer,,Mars
+1807,2024,Mars Observer,,Mars
+1808,2025,Mars Observer,,Mars
+1809,1960,Mars Odyssey,,Mars
+1810,1961,Mars Odyssey,,Mars
+1811,1962,Mars Odyssey,,Mars
+1812,1963,Mars Odyssey,,Mars
+1813,1964,Mars Odyssey,,Mars
+1814,1965,Mars Odyssey,,Mars
+1815,1966,Mars Odyssey,,Mars
+1816,1967,Mars Odyssey,,Mars
+1817,1968,Mars Odyssey,,Mars
+1818,1969,Mars Odyssey,,Mars
+1819,1970,Mars Odyssey,,Mars
+1820,1971,Mars Odyssey,,Mars
+1821,1972,Mars Odyssey,,Mars
+1822,1973,Mars Odyssey,,Mars
+1823,1974,Mars Odyssey,,Mars
+1824,1975,Mars Odyssey,,Mars
+1825,1976,Mars Odyssey,,Mars
+1827,1977,Mars Odyssey,,Mars
+1828,1978,Mars Odyssey,,Mars
+1829,1979,Mars Odyssey,,Mars
+1830,1980,Mars Odyssey,,Mars
+1831,1981,Mars Odyssey,,Mars
+1832,1982,Mars Odyssey,,Mars
+1833,1983,Mars Odyssey,,Mars
+1834,1984,Mars Odyssey,,Mars
+1835,1985,Mars Odyssey,,Mars
+1836,1986,Mars Odyssey,,Mars
+1837,1987,Mars Odyssey,,Mars
+1838,1988,Mars Odyssey,,Mars
+1839,1989,Mars Odyssey,,Mars
+1840,1990,Mars Odyssey,,Mars
+1841,1991,Mars Odyssey,,Mars
+1842,1992,Mars Odyssey,,Mars
+1843,1993,Mars Odyssey,,Mars
+1844,1994,Mars Odyssey,,Mars
+1845,1995,Mars Odyssey,,Mars
+1846,1996,Mars Odyssey,,Mars
+1847,1997,Mars Odyssey,,Mars
+1848,1998,Mars Odyssey,64.9,Mars
+1849,1999,Mars Odyssey,213.5,Mars
+1850,2000,Mars Odyssey,109.2,Mars
+1851,2001,Mars Odyssey,38.3,Mars
+1852,2002,Mars Odyssey,14,Mars
+1853,2003,Mars Odyssey,10.5,Mars
+1854,2004,Mars Odyssey,9.9,Mars
+1855,2005,Mars Odyssey,10,Mars
+1856,2006,Mars Odyssey,10,Mars
+1857,2007,Mars Odyssey,10,Mars
+1858,2008,Mars Odyssey,10,Mars
+1859,2009,Mars Odyssey,10,Mars
+1860,2010,Mars Odyssey,10,Mars
+1861,2011,Mars Odyssey,10.1,Mars
+1862,2012,Mars Odyssey,13.3,Mars
+1863,2013,Mars Odyssey,13.2,Mars
+1864,2014,Mars Odyssey,12.3,Mars
+1865,2015,Mars Odyssey,12,Mars
+1866,2016,Mars Odyssey,9.7,Mars
+1867,2017,Mars Odyssey,10.8,Mars
+1868,2018,Mars Odyssey,11.3,Mars
+1869,2019,Mars Odyssey,11.5,Mars
+1870,2020,Mars Odyssey,11.7,Mars
+1871,2021,Mars Odyssey,1,Mars
+1872,2022,Mars Odyssey,,Mars
+1873,2023,Mars Odyssey,,Mars
+1874,2024,Mars Odyssey,,Mars
+1875,2025,Mars Odyssey,,Mars
+1876,1960,Mars Pathfinder,,Mars
+1877,1961,Mars Pathfinder,,Mars
+1878,1962,Mars Pathfinder,,Mars
+1879,1963,Mars Pathfinder,,Mars
+1880,1964,Mars Pathfinder,,Mars
+1881,1965,Mars Pathfinder,,Mars
+1882,1966,Mars Pathfinder,,Mars
+1883,1967,Mars Pathfinder,,Mars
+1884,1968,Mars Pathfinder,,Mars
+1885,1969,Mars Pathfinder,,Mars
+1886,1970,Mars Pathfinder,,Mars
+1887,1971,Mars Pathfinder,,Mars
+1888,1972,Mars Pathfinder,,Mars
+1889,1973,Mars Pathfinder,,Mars
+1890,1974,Mars Pathfinder,,Mars
+1891,1975,Mars Pathfinder,,Mars
+1892,1976,Mars Pathfinder,,Mars
+1894,1977,Mars Pathfinder,,Mars
+1895,1978,Mars Pathfinder,,Mars
+1896,1979,Mars Pathfinder,,Mars
+1897,1980,Mars Pathfinder,,Mars
+1898,1981,Mars Pathfinder,,Mars
+1899,1982,Mars Pathfinder,,Mars
+1900,1983,Mars Pathfinder,,Mars
+1901,1984,Mars Pathfinder,,Mars
+1902,1985,Mars Pathfinder,,Mars
+1903,1986,Mars Pathfinder,,Mars
+1904,1987,Mars Pathfinder,,Mars
+1905,1988,Mars Pathfinder,,Mars
+1906,1989,Mars Pathfinder,,Mars
+1907,1990,Mars Pathfinder,,Mars
+1908,1991,Mars Pathfinder,,Mars
+1909,1992,Mars Pathfinder,,Mars
+1910,1993,Mars Pathfinder,3.1,Mars
+1911,1994,Mars Pathfinder,76.3,Mars
+1912,1995,Mars Pathfinder,109.4,Mars
+1913,1996,Mars Pathfinder,57.1,Mars
+1914,1997,Mars Pathfinder,11.8,Mars
+1915,1998,Mars Pathfinder,4.6,Mars
+1916,1999,Mars Pathfinder,,Mars
+1917,2000,Mars Pathfinder,,Mars
+1918,2001,Mars Pathfinder,,Mars
+1919,2002,Mars Pathfinder,,Mars
+1920,2003,Mars Pathfinder,,Mars
+1921,2004,Mars Pathfinder,,Mars
+1922,2005,Mars Pathfinder,,Mars
+1923,2006,Mars Pathfinder,,Mars
+1924,2007,Mars Pathfinder,,Mars
+1925,2008,Mars Pathfinder,,Mars
+1926,2009,Mars Pathfinder,,Mars
+1927,2010,Mars Pathfinder,,Mars
+1928,2011,Mars Pathfinder,,Mars
+1929,2012,Mars Pathfinder,,Mars
+1930,2013,Mars Pathfinder,,Mars
+1931,2014,Mars Pathfinder,,Mars
+1932,2015,Mars Pathfinder,,Mars
+1933,2016,Mars Pathfinder,,Mars
+1934,2017,Mars Pathfinder,,Mars
+1935,2018,Mars Pathfinder,,Mars
+1936,2019,Mars Pathfinder,,Mars
+1937,2020,Mars Pathfinder,,Mars
+1938,2021,Mars Pathfinder,,Mars
+1939,2022,Mars Pathfinder,,Mars
+1940,2023,Mars Pathfinder,,Mars
+1941,2024,Mars Pathfinder,,Mars
+1942,2025,Mars Pathfinder,,Mars
+1943,1960,MAVEN,,Mars
+1944,1961,MAVEN,,Mars
+1945,1962,MAVEN,,Mars
+1946,1963,MAVEN,,Mars
+1947,1964,MAVEN,,Mars
+1948,1965,MAVEN,,Mars
+1949,1966,MAVEN,,Mars
+1950,1967,MAVEN,,Mars
+1951,1968,MAVEN,,Mars
+1952,1969,MAVEN,,Mars
+1953,1970,MAVEN,,Mars
+1954,1971,MAVEN,,Mars
+1955,1972,MAVEN,,Mars
+1956,1973,MAVEN,,Mars
+1957,1974,MAVEN,,Mars
+1958,1975,MAVEN,,Mars
+1959,1976,MAVEN,,Mars
+1961,1977,MAVEN,,Mars
+1962,1978,MAVEN,,Mars
+1963,1979,MAVEN,,Mars
+1964,1980,MAVEN,,Mars
+1965,1981,MAVEN,,Mars
+1966,1982,MAVEN,,Mars
+1967,1983,MAVEN,,Mars
+1968,1984,MAVEN,,Mars
+1969,1985,MAVEN,,Mars
+1970,1986,MAVEN,,Mars
+1971,1987,MAVEN,,Mars
+1972,1988,MAVEN,,Mars
+1973,1989,MAVEN,,Mars
+1974,1990,MAVEN,,Mars
+1975,1991,MAVEN,,Mars
+1976,1992,MAVEN,,Mars
+1977,1993,MAVEN,,Mars
+1978,1994,MAVEN,,Mars
+1979,1995,MAVEN,,Mars
+1980,1996,MAVEN,,Mars
+1981,1997,MAVEN,,Mars
+1982,1998,MAVEN,,Mars
+1983,1999,MAVEN,,Mars
+1984,2000,MAVEN,,Mars
+1985,2001,MAVEN,,Mars
+1986,2002,MAVEN,,Mars
+1987,2003,MAVEN,,Mars
+1988,2004,MAVEN,,Mars
+1989,2005,MAVEN,,Mars
+1990,2006,MAVEN,,Mars
+1991,2007,MAVEN,5.3,Mars
+1992,2008,MAVEN,1,Mars
+1993,2009,MAVEN,6.7,Mars
+1994,2010,MAVEN,48.1,Mars
+1995,2011,MAVEN,160.5,Mars
+1996,2012,MAVEN,245.7,Mars
+1997,2013,MAVEN,86.5,Mars
+1998,2014,MAVEN,14.9,Mars
+1999,2015,MAVEN,13.8,Mars
+2000,2016,MAVEN,21.3,Mars
+2001,2017,MAVEN,20.5,Mars
+2002,2018,MAVEN,22.2,Mars
+2003,2019,MAVEN,17.9,Mars
+2004,2020,MAVEN,20.5,Mars
+2005,2021,MAVEN,22,Mars
+2006,2022,MAVEN,21,Mars
+2007,2023,MAVEN,20,Mars
+2008,2024,MAVEN,20,Mars
+2009,2025,MAVEN,18,Mars
+2010,1960,MESSENGER,,Mercury
+2011,1961,MESSENGER,,Mercury
+2012,1962,MESSENGER,,Mercury
+2013,1963,MESSENGER,,Mercury
+2014,1964,MESSENGER,,Mercury
+2015,1965,MESSENGER,,Mercury
+2016,1966,MESSENGER,,Mercury
+2017,1967,MESSENGER,,Mercury
+2018,1968,MESSENGER,,Mercury
+2019,1969,MESSENGER,,Mercury
+2020,1970,MESSENGER,,Mercury
+2021,1971,MESSENGER,,Mercury
+2022,1972,MESSENGER,,Mercury
+2023,1973,MESSENGER,,Mercury
+2024,1974,MESSENGER,,Mercury
+2025,1975,MESSENGER,,Mercury
+2026,1976,MESSENGER,,Mercury
+2028,1977,MESSENGER,,Mercury
+2029,1978,MESSENGER,,Mercury
+2030,1979,MESSENGER,,Mercury
+2031,1980,MESSENGER,,Mercury
+2032,1981,MESSENGER,,Mercury
+2033,1982,MESSENGER,,Mercury
+2034,1983,MESSENGER,,Mercury
+2035,1984,MESSENGER,,Mercury
+2036,1985,MESSENGER,,Mercury
+2037,1986,MESSENGER,,Mercury
+2038,1987,MESSENGER,,Mercury
+2039,1988,MESSENGER,,Mercury
+2040,1989,MESSENGER,,Mercury
+2041,1990,MESSENGER,,Mercury
+2042,1991,MESSENGER,,Mercury
+2043,1992,MESSENGER,,Mercury
+2044,1993,MESSENGER,,Mercury
+2045,1994,MESSENGER,,Mercury
+2046,1995,MESSENGER,,Mercury
+2047,1996,MESSENGER,,Mercury
+2048,1997,MESSENGER,,Mercury
+2049,1998,MESSENGER,,Mercury
+2050,1999,MESSENGER,1.7,Mercury
+2051,2000,MESSENGER,9.6,Mercury
+2052,2001,MESSENGER,51.8,Mercury
+2053,2002,MESSENGER,97.4,Mercury
+2054,2003,MESSENGER,86.7,Mercury
+2055,2004,MESSENGER,42.3,Mercury
+2056,2005,MESSENGER,7.7,Mercury
+2057,2006,MESSENGER,8.2,Mercury
+2058,2007,MESSENGER,9.4,Mercury
+2059,2008,MESSENGER,11.5,Mercury
+2060,2009,MESSENGER,16.3,Mercury
+2061,2010,MESSENGER,15.8,Mercury
+2062,2011,MESSENGER,22.7,Mercury
+2063,2012,MESSENGER,34.9,Mercury
+2064,2013,MESSENGER,16.6,Mercury
+2065,2014,MESSENGER,12.2,Mercury
+2066,2015,MESSENGER,6,Mercury
+2067,2016,MESSENGER,6.8,Mercury
+2068,2017,MESSENGER,,Mercury
+2069,2018,MESSENGER,,Mercury
+2070,2019,MESSENGER,,Mercury
+2071,2020,MESSENGER,,Mercury
+2072,2021,MESSENGER,,Mercury
+2073,2022,MESSENGER,,Mercury
+2074,2023,MESSENGER,,Mercury
+2075,2024,MESSENGER,,Mercury
+2076,2025,MESSENGER,,Mercury
+2077,1960,MER,,Mars
+2078,1961,MER,,Mars
+2079,1962,MER,,Mars
+2080,1963,MER,,Mars
+2081,1964,MER,,Mars
+2082,1965,MER,,Mars
+2083,1966,MER,,Mars
+2084,1967,MER,,Mars
+2085,1968,MER,,Mars
+2086,1969,MER,,Mars
+2087,1970,MER,,Mars
+2088,1971,MER,,Mars
+2089,1972,MER,,Mars
+2090,1973,MER,,Mars
+2091,1974,MER,,Mars
+2092,1975,MER,,Mars
+2093,1976,MER,,Mars
+2095,1977,MER,,Mars
+2096,1978,MER,,Mars
+2097,1979,MER,,Mars
+2098,1980,MER,,Mars
+2099,1981,MER,,Mars
+2100,1982,MER,,Mars
+2101,1983,MER,,Mars
+2102,1984,MER,,Mars
+2103,1985,MER,,Mars
+2104,1986,MER,,Mars
+2105,1987,MER,,Mars
+2106,1988,MER,,Mars
+2107,1989,MER,,Mars
+2108,1990,MER,,Mars
+2109,1991,MER,,Mars
+2110,1992,MER,,Mars
+2111,1993,MER,,Mars
+2112,1994,MER,,Mars
+2113,1995,MER,,Mars
+2114,1996,MER,,Mars
+2115,1997,MER,,Mars
+2116,1998,MER,,Mars
+2117,1999,MER,,Mars
+2118,2000,MER,18.9,Mars
+2119,2001,MER,296,Mars
+2120,2002,MER,277.6,Mars
+2121,2003,MER,172.4,Mars
+2122,2004,MER,51.6,Mars
+2123,2005,MER,30.33333333,Mars
+2124,2006,MER,30.33333333,Mars
+2125,2007,MER,30.33333333,Mars
+2126,2008,MER,20,Mars
+2127,2009,MER,20,Mars
+2128,2010,MER,20,Mars
+2129,2011,MER,13.6,Mars
+2130,2012,MER,15,Mars
+2131,2013,MER,13.2,Mars
+2132,2014,MER,14,Mars
+2133,2015,MER,13.7,Mars
+2134,2016,MER,14.2,Mars
+2135,2017,MER,12.5,Mars
+2136,2018,MER,12.5,Mars
+2137,2019,MER,3.6,Mars
+2138,2020,MER,,Mars
+2139,2021,MER,,Mars
+2140,2022,MER,,Mars
+2141,2023,MER,,Mars
+2142,2024,MER,,Mars
+2143,2025,MER,,Mars
+2144,1960,MGS,,Mars
+2145,1961,MGS,,Mars
+2146,1962,MGS,,Mars
+2147,1963,MGS,,Mars
+2148,1964,MGS,,Mars
+2149,1965,MGS,,Mars
+2150,1966,MGS,,Mars
+2151,1967,MGS,,Mars
+2152,1968,MGS,,Mars
+2153,1969,MGS,,Mars
+2154,1970,MGS,,Mars
+2155,1971,MGS,,Mars
+2156,1972,MGS,,Mars
+2157,1973,MGS,,Mars
+2158,1974,MGS,,Mars
+2159,1975,MGS,,Mars
+2160,1976,MGS,,Mars
+2162,1977,MGS,,Mars
+2163,1978,MGS,,Mars
+2164,1979,MGS,,Mars
+2165,1980,MGS,,Mars
+2166,1981,MGS,,Mars
+2167,1982,MGS,,Mars
+2168,1983,MGS,,Mars
+2169,1984,MGS,,Mars
+2170,1985,MGS,,Mars
+2171,1986,MGS,,Mars
+2172,1987,MGS,,Mars
+2173,1988,MGS,,Mars
+2174,1989,MGS,,Mars
+2175,1990,MGS,,Mars
+2176,1991,MGS,,Mars
+2177,1992,MGS,,Mars
+2178,1993,MGS,,Mars
+2179,1994,MGS,14.8,Mars
+2180,1995,MGS,80,Mars
+2181,1996,MGS,82.9,Mars
+2182,1997,MGS,21.4,Mars
+2183,1998,MGS,19.5,Mars
+2184,1999,MGS,13.1,Mars
+2185,2000,MGS,12.8,Mars
+2186,2001,MGS,9.1,Mars
+2187,2002,MGS,6,Mars
+2188,2003,MGS,6,Mars
+2189,2004,MGS,6,Mars
+2190,2005,MGS,6,Mars
+2191,2006,MGS,6,Mars
+2192,2007,MGS,,Mars
+2193,2008,MGS,,Mars
+2194,2009,MGS,,Mars
+2195,2010,MGS,,Mars
+2196,2011,MGS,,Mars
+2197,2012,MGS,,Mars
+2198,2013,MGS,,Mars
+2199,2014,MGS,,Mars
+2200,2015,MGS,,Mars
+2201,2016,MGS,,Mars
+2202,2017,MGS,,Mars
+2203,2018,MGS,,Mars
+2204,2019,MGS,,Mars
+2205,2020,MGS,,Mars
+2206,2021,MGS,,Mars
+2207,2022,MGS,,Mars
+2208,2023,MGS,,Mars
+2209,2024,MGS,,Mars
+2210,2025,MGS,,Mars
+2211,1960,MOMA,,Mars
+2212,1961,MOMA,,Mars
+2213,1962,MOMA,,Mars
+2214,1963,MOMA,,Mars
+2215,1964,MOMA,,Mars
+2216,1965,MOMA,,Mars
+2217,1966,MOMA,,Mars
+2218,1967,MOMA,,Mars
+2219,1968,MOMA,,Mars
+2220,1969,MOMA,,Mars
+2221,1970,MOMA,,Mars
+2222,1971,MOMA,,Mars
+2223,1972,MOMA,,Mars
+2224,1973,MOMA,,Mars
+2225,1974,MOMA,,Mars
+2226,1975,MOMA,,Mars
+2227,1976,MOMA,,Mars
+2229,1977,MOMA,,Mars
+2230,1978,MOMA,,Mars
+2231,1979,MOMA,,Mars
+2232,1980,MOMA,,Mars
+2233,1981,MOMA,,Mars
+2234,1982,MOMA,,Mars
+2235,1983,MOMA,,Mars
+2236,1984,MOMA,,Mars
+2237,1985,MOMA,,Mars
+2238,1986,MOMA,,Mars
+2239,1987,MOMA,,Mars
+2240,1988,MOMA,,Mars
+2241,1989,MOMA,,Mars
+2242,1990,MOMA,,Mars
+2243,1991,MOMA,,Mars
+2244,1992,MOMA,,Mars
+2245,1993,MOMA,,Mars
+2246,1994,MOMA,,Mars
+2247,1995,MOMA,,Mars
+2248,1996,MOMA,,Mars
+2249,1997,MOMA,,Mars
+2250,1998,MOMA,,Mars
+2251,1999,MOMA,,Mars
+2252,2000,MOMA,,Mars
+2253,2001,MOMA,,Mars
+2254,2002,MOMA,,Mars
+2255,2003,MOMA,,Mars
+2256,2004,MOMA,,Mars
+2257,2005,MOMA,,Mars
+2258,2006,MOMA,,Mars
+2259,2007,MOMA,,Mars
+2260,2008,MOMA,,Mars
+2261,2009,MOMA,,Mars
+2262,2010,MOMA,,Mars
+2263,2011,MOMA,6,Mars
+2264,2012,MOMA,12.6,Mars
+2265,2013,MOMA,14.4,Mars
+2266,2014,MOMA,20.9,Mars
+2267,2015,MOMA,24.5,Mars
+2268,2016,MOMA,12.5,Mars
+2269,2017,MOMA,12.1,Mars
+2270,2018,MOMA,12.9,Mars
+2271,2019,MOMA,6.9,Mars
+2272,2020,MOMA,6.7,Mars
+2273,2021,MOMA,6.9,Mars
+2274,2022,MOMA,4,Mars
+2275,2023,MOMA,4,Mars
+2276,2024,MOMA,3,Mars
+2277,2025,MOMA,,Mars
+2278,1960,MPL and MCO,,Mars
+2279,1961,MPL and MCO,,Mars
+2280,1962,MPL and MCO,,Mars
+2281,1963,MPL and MCO,,Mars
+2282,1964,MPL and MCO,,Mars
+2283,1965,MPL and MCO,,Mars
+2284,1966,MPL and MCO,,Mars
+2285,1967,MPL and MCO,,Mars
+2286,1968,MPL and MCO,,Mars
+2287,1969,MPL and MCO,,Mars
+2288,1970,MPL and MCO,,Mars
+2289,1971,MPL and MCO,,Mars
+2290,1972,MPL and MCO,,Mars
+2291,1973,MPL and MCO,,Mars
+2292,1974,MPL and MCO,,Mars
+2293,1975,MPL and MCO,,Mars
+2294,1976,MPL and MCO,,Mars
+2296,1977,MPL and MCO,,Mars
+2297,1978,MPL and MCO,,Mars
+2298,1979,MPL and MCO,,Mars
+2299,1980,MPL and MCO,,Mars
+2300,1981,MPL and MCO,,Mars
+2301,1982,MPL and MCO,,Mars
+2302,1983,MPL and MCO,,Mars
+2303,1984,MPL and MCO,,Mars
+2304,1985,MPL and MCO,,Mars
+2305,1986,MPL and MCO,,Mars
+2306,1987,MPL and MCO,,Mars
+2307,1988,MPL and MCO,,Mars
+2308,1989,MPL and MCO,,Mars
+2309,1990,MPL and MCO,,Mars
+2310,1991,MPL and MCO,,Mars
+2311,1992,MPL and MCO,,Mars
+2312,1993,MPL and MCO,,Mars
+2313,1994,MPL and MCO,,Mars
+2314,1995,MPL and MCO,,Mars
+2315,1996,MPL and MCO,59.8,Mars
+2316,1997,MPL and MCO,118.2,Mars
+2317,1998,MPL and MCO,79.6,Mars
+2318,1999,MPL and MCO,27.2,Mars
+2319,2000,MPL and MCO,6,Mars
+2320,2001,MPL and MCO,,Mars
+2321,2002,MPL and MCO,,Mars
+2322,2003,MPL and MCO,,Mars
+2323,2004,MPL and MCO,,Mars
+2324,2005,MPL and MCO,,Mars
+2325,2006,MPL and MCO,,Mars
+2326,2007,MPL and MCO,,Mars
+2327,2008,MPL and MCO,,Mars
+2328,2009,MPL and MCO,,Mars
+2329,2010,MPL and MCO,,Mars
+2330,2011,MPL and MCO,,Mars
+2331,2012,MPL and MCO,,Mars
+2332,2013,MPL and MCO,,Mars
+2333,2014,MPL and MCO,,Mars
+2334,2015,MPL and MCO,,Mars
+2335,2016,MPL and MCO,,Mars
+2336,2017,MPL and MCO,,Mars
+2337,2018,MPL and MCO,,Mars
+2338,2019,MPL and MCO,,Mars
+2339,2020,MPL and MCO,,Mars
+2340,2021,MPL and MCO,,Mars
+2341,2022,MPL and MCO,,Mars
+2342,2023,MPL and MCO,,Mars
+2343,2024,MPL and MCO,,Mars
+2344,2025,MPL and MCO,,Mars
+2345,1960,MRO,,Mars
+2346,1961,MRO,,Mars
+2347,1962,MRO,,Mars
+2348,1963,MRO,,Mars
+2349,1964,MRO,,Mars
+2350,1965,MRO,,Mars
+2351,1966,MRO,,Mars
+2352,1967,MRO,,Mars
+2353,1968,MRO,,Mars
+2354,1969,MRO,,Mars
+2355,1970,MRO,,Mars
+2356,1971,MRO,,Mars
+2357,1972,MRO,,Mars
+2358,1973,MRO,,Mars
+2359,1974,MRO,,Mars
+2360,1975,MRO,,Mars
+2361,1976,MRO,,Mars
+2363,1977,MRO,,Mars
+2364,1978,MRO,,Mars
+2365,1979,MRO,,Mars
+2366,1980,MRO,,Mars
+2367,1981,MRO,,Mars
+2368,1982,MRO,,Mars
+2369,1983,MRO,,Mars
+2370,1984,MRO,,Mars
+2371,1985,MRO,,Mars
+2372,1986,MRO,,Mars
+2373,1987,MRO,,Mars
+2374,1988,MRO,,Mars
+2375,1989,MRO,,Mars
+2376,1990,MRO,,Mars
+2377,1991,MRO,,Mars
+2378,1992,MRO,,Mars
+2379,1993,MRO,,Mars
+2380,1994,MRO,,Mars
+2381,1995,MRO,,Mars
+2382,1996,MRO,,Mars
+2383,1997,MRO,,Mars
+2384,1998,MRO,,Mars
+2385,1999,MRO,,Mars
+2386,2000,MRO,,Mars
+2387,2001,MRO,12,Mars
+2388,2002,MRO,58,Mars
+2389,2003,MRO,146.9,Mars
+2390,2004,MRO,185.5,Mars
+2391,2005,MRO,143.7,Mars
+2392,2006,MRO,46.4,Mars
+2393,2007,MRO,47.6,Mars
+2394,2008,MRO,38.9,Mars
+2395,2009,MRO,23.9,Mars
+2396,2010,MRO,23.2,Mars
+2397,2011,MRO,30.1,Mars
+2398,2012,MRO,39.9,Mars
+2399,2013,MRO,20.6,Mars
+2400,2014,MRO,29.2,Mars
+2401,2015,MRO,27.9,Mars
+2402,2016,MRO,27.7,Mars
+2403,2017,MRO,28,Mars
+2404,2018,MRO,26.3,Mars
+2405,2019,MRO,26,Mars
+2406,2020,MRO,28,Mars
+2407,2021,MRO,25.5,Mars
+2408,2022,MRO,25,Mars
+2409,2023,MRO,24.5,Mars
+2410,2024,MRO,23.5,Mars
+2411,2025,MRO,23.5,Mars
+2412,1960,MSL Curiosity,,Mars
+2413,1961,MSL Curiosity,,Mars
+2414,1962,MSL Curiosity,,Mars
+2415,1963,MSL Curiosity,,Mars
+2416,1964,MSL Curiosity,,Mars
+2417,1965,MSL Curiosity,,Mars
+2418,1966,MSL Curiosity,,Mars
+2419,1967,MSL Curiosity,,Mars
+2420,1968,MSL Curiosity,,Mars
+2421,1969,MSL Curiosity,,Mars
+2422,1970,MSL Curiosity,,Mars
+2423,1971,MSL Curiosity,,Mars
+2424,1972,MSL Curiosity,,Mars
+2425,1973,MSL Curiosity,,Mars
+2426,1974,MSL Curiosity,,Mars
+2427,1975,MSL Curiosity,,Mars
+2428,1976,MSL Curiosity,,Mars
+2430,1977,MSL Curiosity,,Mars
+2431,1978,MSL Curiosity,,Mars
+2432,1979,MSL Curiosity,,Mars
+2433,1980,MSL Curiosity,,Mars
+2434,1981,MSL Curiosity,,Mars
+2435,1982,MSL Curiosity,,Mars
+2436,1983,MSL Curiosity,,Mars
+2437,1984,MSL Curiosity,,Mars
+2438,1985,MSL Curiosity,,Mars
+2439,1986,MSL Curiosity,,Mars
+2440,1987,MSL Curiosity,,Mars
+2441,1988,MSL Curiosity,,Mars
+2442,1989,MSL Curiosity,,Mars
+2443,1990,MSL Curiosity,,Mars
+2444,1991,MSL Curiosity,,Mars
+2445,1992,MSL Curiosity,,Mars
+2446,1993,MSL Curiosity,,Mars
+2447,1994,MSL Curiosity,,Mars
+2448,1995,MSL Curiosity,,Mars
+2449,1996,MSL Curiosity,,Mars
+2450,1997,MSL Curiosity,,Mars
+2451,1998,MSL Curiosity,,Mars
+2452,1999,MSL Curiosity,,Mars
+2453,2000,MSL Curiosity,,Mars
+2454,2001,MSL Curiosity,,Mars
+2455,2002,MSL Curiosity,5.7,Mars
+2456,2003,MSL Curiosity,60.6,Mars
+2457,2004,MSL Curiosity,118.1,Mars
+2458,2005,MSL Curiosity,117.5,Mars
+2459,2006,MSL Curiosity,251,Mars
+2460,2007,MSL Curiosity,416.8,Mars
+2461,2008,MSL Curiosity,545,Mars
+2462,2009,MSL Curiosity,229.3,Mars
+2463,2010,MSL Curiosity,258.4,Mars
+2464,2011,MSL Curiosity,242.9,Mars
+2465,2012,MSL Curiosity,174,Mars
+2466,2013,MSL Curiosity,63.8,Mars
+2467,2014,MSL Curiosity,69.6,Mars
+2468,2015,MSL Curiosity,63.5,Mars
+2469,2016,MSL Curiosity,50.3,Mars
+2470,2017,MSL Curiosity,56.2,Mars
+2471,2018,MSL Curiosity,51.4,Mars
+2472,2019,MSL Curiosity,51.1,Mars
+2473,2020,MSL Curiosity,50,Mars
+2474,2021,MSL Curiosity,40,Mars
+2475,2022,MSL Curiosity,,Mars
+2476,2023,MSL Curiosity,,Mars
+2477,2024,MSL Curiosity,,Mars
+2478,2025,MSL Curiosity,,Mars
+2479,1960,NEAR,,Asteroid
+2480,1961,NEAR,,Asteroid
+2481,1962,NEAR,,Asteroid
+2482,1963,NEAR,,Asteroid
+2483,1964,NEAR,,Asteroid
+2484,1965,NEAR,,Asteroid
+2485,1966,NEAR,,Asteroid
+2486,1967,NEAR,,Asteroid
+2487,1968,NEAR,,Asteroid
+2488,1969,NEAR,,Asteroid
+2489,1970,NEAR,,Asteroid
+2490,1971,NEAR,,Asteroid
+2491,1972,NEAR,,Asteroid
+2492,1973,NEAR,,Asteroid
+2493,1974,NEAR,,Asteroid
+2494,1975,NEAR,,Asteroid
+2495,1976,NEAR,,Asteroid
+2497,1977,NEAR,,Asteroid
+2498,1978,NEAR,,Asteroid
+2499,1979,NEAR,,Asteroid
+2500,1980,NEAR,,Asteroid
+2501,1981,NEAR,,Asteroid
+2502,1982,NEAR,,Asteroid
+2503,1983,NEAR,,Asteroid
+2504,1984,NEAR,,Asteroid
+2505,1985,NEAR,,Asteroid
+2506,1986,NEAR,,Asteroid
+2507,1987,NEAR,,Asteroid
+2508,1988,NEAR,,Asteroid
+2509,1989,NEAR,,Asteroid
+2510,1990,NEAR,,Asteroid
+2511,1991,NEAR,,Asteroid
+2512,1992,NEAR,,Asteroid
+2513,1993,NEAR,,Asteroid
+2514,1994,NEAR,91.2,Asteroid
+2515,1995,NEAR,66,Asteroid
+2516,1996,NEAR,16.4,Asteroid
+2517,1997,NEAR,3.3,Asteroid
+2518,1998,NEAR,11.2,Asteroid
+2519,1999,NEAR,14.5,Asteroid
+2520,2000,NEAR,13.2,Asteroid
+2521,2001,NEAR,10,Asteroid
+2522,2002,NEAR,1.5,Asteroid
+2523,2003,NEAR,3,Asteroid
+2524,2004,NEAR,,Asteroid
+2525,2005,NEAR,,Asteroid
+2526,2006,NEAR,,Asteroid
+2527,2007,NEAR,,Asteroid
+2528,2008,NEAR,,Asteroid
+2529,2009,NEAR,,Asteroid
+2530,2010,NEAR,,Asteroid
+2531,2011,NEAR,,Asteroid
+2532,2012,NEAR,,Asteroid
+2533,2013,NEAR,,Asteroid
+2534,2014,NEAR,,Asteroid
+2535,2015,NEAR,,Asteroid
+2536,2016,NEAR,,Asteroid
+2537,2017,NEAR,,Asteroid
+2538,2018,NEAR,,Asteroid
+2539,2019,NEAR,,Asteroid
+2540,2020,NEAR,,Asteroid
+2541,2021,NEAR,,Asteroid
+2542,2022,NEAR,,Asteroid
+2543,2023,NEAR,,Asteroid
+2544,2024,NEAR,,Asteroid
+2545,2025,NEAR,,Asteroid
+2546,1960,New Horizons,,Pluto
+2547,1961,New Horizons,,Pluto
+2548,1962,New Horizons,,Pluto
+2549,1963,New Horizons,,Pluto
+2550,1964,New Horizons,,Pluto
+2551,1965,New Horizons,,Pluto
+2552,1966,New Horizons,,Pluto
+2553,1967,New Horizons,,Pluto
+2554,1968,New Horizons,,Pluto
+2555,1969,New Horizons,,Pluto
+2556,1970,New Horizons,,Pluto
+2557,1971,New Horizons,,Pluto
+2558,1972,New Horizons,,Pluto
+2559,1973,New Horizons,,Pluto
+2560,1974,New Horizons,,Pluto
+2561,1975,New Horizons,,Pluto
+2562,1976,New Horizons,,Pluto
+2564,1977,New Horizons,,Pluto
+2565,1978,New Horizons,,Pluto
+2566,1979,New Horizons,,Pluto
+2567,1980,New Horizons,,Pluto
+2568,1981,New Horizons,,Pluto
+2569,1982,New Horizons,,Pluto
+2570,1983,New Horizons,,Pluto
+2571,1984,New Horizons,,Pluto
+2572,1985,New Horizons,,Pluto
+2573,1986,New Horizons,,Pluto
+2574,1987,New Horizons,,Pluto
+2575,1988,New Horizons,,Pluto
+2576,1989,New Horizons,,Pluto
+2577,1990,New Horizons,,Pluto
+2578,1991,New Horizons,,Pluto
+2579,1992,New Horizons,,Pluto
+2580,1993,New Horizons,,Pluto
+2581,1994,New Horizons,,Pluto
+2582,1995,New Horizons,,Pluto
+2583,1996,New Horizons,,Pluto
+2584,1997,New Horizons,,Pluto
+2585,1998,New Horizons,,Pluto
+2586,1999,New Horizons,,Pluto
+2587,2000,New Horizons,,Pluto
+2588,2001,New Horizons,0.7,Pluto
+2589,2002,New Horizons,30,Pluto
+2590,2003,New Horizons,123.6,Pluto
+2591,2004,New Horizons,140.1,Pluto
+2592,2005,New Horizons,193.5,Pluto
+2593,2006,New Horizons,77.8,Pluto
+2594,2007,New Horizons,18.8,Pluto
+2595,2008,New Horizons,20.2,Pluto
+2596,2009,New Horizons,19,Pluto
+2597,2010,New Horizons,18.425,Pluto
+2598,2011,New Horizons,9.7,Pluto
+2599,2012,New Horizons,26.5,Pluto
+2600,2013,New Horizons,9.6,Pluto
+2601,2014,New Horizons,12.9,Pluto
+2602,2015,New Horizons,28.8,Pluto
+2603,2016,New Horizons,21.5,Pluto
+2604,2017,New Horizons,29.4,Pluto
+2605,2018,New Horizons,12,Pluto
+2606,2019,New Horizons,12.7,Pluto
+2607,2020,New Horizons,18.3,Pluto
+2608,2021,New Horizons,9.5,Pluto
+2609,2022,New Horizons,,Pluto
+2610,2023,New Horizons,,Pluto
+2611,2024,New Horizons,,Pluto
+2612,2025,New Horizons,,Pluto
+2613,1960,OSIRIS-REx,,Asteroid
+2614,1961,OSIRIS-REx,,Asteroid
+2615,1962,OSIRIS-REx,,Asteroid
+2616,1963,OSIRIS-REx,,Asteroid
+2617,1964,OSIRIS-REx,,Asteroid
+2618,1965,OSIRIS-REx,,Asteroid
+2619,1966,OSIRIS-REx,,Asteroid
+2620,1967,OSIRIS-REx,,Asteroid
+2621,1968,OSIRIS-REx,,Asteroid
+2622,1969,OSIRIS-REx,,Asteroid
+2623,1970,OSIRIS-REx,,Asteroid
+2624,1971,OSIRIS-REx,,Asteroid
+2625,1972,OSIRIS-REx,,Asteroid
+2626,1973,OSIRIS-REx,,Asteroid
+2627,1974,OSIRIS-REx,,Asteroid
+2628,1975,OSIRIS-REx,,Asteroid
+2629,1976,OSIRIS-REx,,Asteroid
+2631,1977,OSIRIS-REx,,Asteroid
+2632,1978,OSIRIS-REx,,Asteroid
+2633,1979,OSIRIS-REx,,Asteroid
+2634,1980,OSIRIS-REx,,Asteroid
+2635,1981,OSIRIS-REx,,Asteroid
+2636,1982,OSIRIS-REx,,Asteroid
+2637,1983,OSIRIS-REx,,Asteroid
+2638,1984,OSIRIS-REx,,Asteroid
+2639,1985,OSIRIS-REx,,Asteroid
+2640,1986,OSIRIS-REx,,Asteroid
+2641,1987,OSIRIS-REx,,Asteroid
+2642,1988,OSIRIS-REx,,Asteroid
+2643,1989,OSIRIS-REx,,Asteroid
+2644,1990,OSIRIS-REx,,Asteroid
+2645,1991,OSIRIS-REx,,Asteroid
+2646,1992,OSIRIS-REx,,Asteroid
+2647,1993,OSIRIS-REx,,Asteroid
+2648,1994,OSIRIS-REx,,Asteroid
+2649,1995,OSIRIS-REx,,Asteroid
+2650,1996,OSIRIS-REx,,Asteroid
+2651,1997,OSIRIS-REx,,Asteroid
+2652,1998,OSIRIS-REx,,Asteroid
+2653,1999,OSIRIS-REx,,Asteroid
+2654,2000,OSIRIS-REx,,Asteroid
+2655,2001,OSIRIS-REx,,Asteroid
+2656,2002,OSIRIS-REx,,Asteroid
+2657,2003,OSIRIS-REx,,Asteroid
+2658,2004,OSIRIS-REx,,Asteroid
+2659,2005,OSIRIS-REx,,Asteroid
+2660,2006,OSIRIS-REx,,Asteroid
+2661,2007,OSIRIS-REx,,Asteroid
+2662,2008,OSIRIS-REx,,Asteroid
+2663,2009,OSIRIS-REx,,Asteroid
+2664,2010,OSIRIS-REx,,Asteroid
+2665,2011,OSIRIS-REx,4.9,Asteroid
+2666,2012,OSIRIS-REx,99.8,Asteroid
+2667,2013,OSIRIS-REx,125.5,Asteroid
+2668,2014,OSIRIS-REx,207.3,Asteroid
+2669,2015,OSIRIS-REx,209.8,Asteroid
+2670,2016,OSIRIS-REx,124.7,Asteroid
+2671,2017,OSIRIS-REx,39.5,Asteroid
+2672,2018,OSIRIS-REx,42.8,Asteroid
+2673,2019,OSIRIS-REx,50.3,Asteroid
+2674,2020,OSIRIS-REx,50.3,Asteroid
+2675,2021,OSIRIS-REx,28.8,Asteroid
+2676,2022,OSIRIS-REx,16.9,Asteroid
+2677,2023,OSIRIS-REx,26.1,Asteroid
+2678,2024,OSIRIS-REx,8.9,Asteroid
+2679,2025,OSIRIS-REx,20,Asteroid
+2680,1960,Phoenix,,Mars
+2681,1961,Phoenix,,Mars
+2682,1962,Phoenix,,Mars
+2683,1963,Phoenix,,Mars
+2684,1964,Phoenix,,Mars
+2685,1965,Phoenix,,Mars
+2686,1966,Phoenix,,Mars
+2687,1967,Phoenix,,Mars
+2688,1968,Phoenix,,Mars
+2689,1969,Phoenix,,Mars
+2690,1970,Phoenix,,Mars
+2691,1971,Phoenix,,Mars
+2692,1972,Phoenix,,Mars
+2693,1973,Phoenix,,Mars
+2694,1974,Phoenix,,Mars
+2695,1975,Phoenix,,Mars
+2696,1976,Phoenix,,Mars
+2698,1977,Phoenix,,Mars
+2699,1978,Phoenix,,Mars
+2700,1979,Phoenix,,Mars
+2701,1980,Phoenix,,Mars
+2702,1981,Phoenix,,Mars
+2703,1982,Phoenix,,Mars
+2704,1983,Phoenix,,Mars
+2705,1984,Phoenix,,Mars
+2706,1985,Phoenix,,Mars
+2707,1986,Phoenix,,Mars
+2708,1987,Phoenix,,Mars
+2709,1988,Phoenix,,Mars
+2710,1989,Phoenix,,Mars
+2711,1990,Phoenix,,Mars
+2712,1991,Phoenix,,Mars
+2713,1992,Phoenix,,Mars
+2714,1993,Phoenix,,Mars
+2715,1994,Phoenix,,Mars
+2716,1995,Phoenix,,Mars
+2717,1996,Phoenix,,Mars
+2718,1997,Phoenix,,Mars
+2719,1998,Phoenix,,Mars
+2720,1999,Phoenix,,Mars
+2721,2000,Phoenix,,Mars
+2722,2001,Phoenix,,Mars
+2723,2002,Phoenix,,Mars
+2724,2003,Phoenix,12.1,Mars
+2725,2004,Phoenix,25.5,Mars
+2726,2005,Phoenix,108.9,Mars
+2727,2006,Phoenix,141.5,Mars
+2728,2007,Phoenix,119.4,Mars
+2729,2008,Phoenix,11.4,Mars
+2730,2009,Phoenix,1.2,Mars
+2731,2010,Phoenix,,Mars
+2732,2011,Phoenix,,Mars
+2733,2012,Phoenix,,Mars
+2734,2013,Phoenix,,Mars
+2735,2014,Phoenix,,Mars
+2736,2015,Phoenix,,Mars
+2737,2016,Phoenix,,Mars
+2738,2017,Phoenix,,Mars
+2739,2018,Phoenix,,Mars
+2740,2019,Phoenix,,Mars
+2741,2020,Phoenix,,Mars
+2742,2021,Phoenix,,Mars
+2743,2022,Phoenix,,Mars
+2744,2023,Phoenix,,Mars
+2745,2024,Phoenix,,Mars
+2746,2025,Phoenix,,Mars
+2747,1960,Pioneer 10 and 11,,Jupiter
+2748,1961,Pioneer 10 and 11,,Jupiter
+2749,1962,Pioneer 10 and 11,,Jupiter
+2750,1963,Pioneer 10 and 11,,Jupiter
+2751,1964,Pioneer 10 and 11,,Jupiter
+2752,1965,Pioneer 10 and 11,,Jupiter
+2753,1966,Pioneer 10 and 11,,Jupiter
+2754,1967,Pioneer 10 and 11,,Jupiter
+2755,1968,Pioneer 10 and 11,,Jupiter
+2756,1969,Pioneer 10 and 11,5.965,Jupiter
+2757,1970,Pioneer 10 and 11,22.609,Jupiter
+2758,1971,Pioneer 10 and 11,56.496,Jupiter
+2759,1972,Pioneer 10 and 11,18.964,Jupiter
+2760,1973,Pioneer 10 and 11,2.653,Jupiter
+2761,1974,Pioneer 10 and 11,5.28,Jupiter
+2762,1975,Pioneer 10 and 11,4.926,Jupiter
+2763,1976,Pioneer 10 and 11,3.6,Jupiter
+2765,1977,Pioneer 10 and 11,3.179,Jupiter
+2766,1978,Pioneer 10 and 11,1.806,Jupiter
+2767,1979,Pioneer 10 and 11,2.825,Jupiter
+2768,1980,Pioneer 10 and 11,2.8,Jupiter
+2769,1981,Pioneer 10 and 11,2,Jupiter
+2770,1982,Pioneer 10 and 11,1.9,Jupiter
+2771,1983,Pioneer 10 and 11,,Jupiter
+2772,1984,Pioneer 10 and 11,,Jupiter
+2773,1985,Pioneer 10 and 11,,Jupiter
+2774,1986,Pioneer 10 and 11,,Jupiter
+2775,1987,Pioneer 10 and 11,3.7,Jupiter
+2776,1988,Pioneer 10 and 11,3.5,Jupiter
+2777,1989,Pioneer 10 and 11,3.7,Jupiter
+2778,1990,Pioneer 10 and 11,3.9,Jupiter
+2779,1991,Pioneer 10 and 11,4.1,Jupiter
+2780,1992,Pioneer 10 and 11,,Jupiter
+2781,1993,Pioneer 10 and 11,8.8,Jupiter
+2782,1994,Pioneer 10 and 11,4.5,Jupiter
+2783,1995,Pioneer 10 and 11,2.5,Jupiter
+2784,1996,Pioneer 10 and 11,2.5,Jupiter
+2785,1997,Pioneer 10 and 11,2.5,Jupiter
+2786,1998,Pioneer 10 and 11,,Jupiter
+2787,1999,Pioneer 10 and 11,,Jupiter
+2788,2000,Pioneer 10 and 11,,Jupiter
+2789,2001,Pioneer 10 and 11,,Jupiter
+2790,2002,Pioneer 10 and 11,,Jupiter
+2791,2003,Pioneer 10 and 11,,Jupiter
+2792,2004,Pioneer 10 and 11,,Jupiter
+2793,2005,Pioneer 10 and 11,,Jupiter
+2794,2006,Pioneer 10 and 11,,Jupiter
+2795,2007,Pioneer 10 and 11,,Jupiter
+2796,2008,Pioneer 10 and 11,,Jupiter
+2797,2009,Pioneer 10 and 11,,Jupiter
+2798,2010,Pioneer 10 and 11,,Jupiter
+2799,2011,Pioneer 10 and 11,,Jupiter
+2800,2012,Pioneer 10 and 11,,Jupiter
+2801,2013,Pioneer 10 and 11,,Jupiter
+2802,2014,Pioneer 10 and 11,,Jupiter
+2803,2015,Pioneer 10 and 11,,Jupiter
+2804,2016,Pioneer 10 and 11,,Jupiter
+2805,2017,Pioneer 10 and 11,,Jupiter
+2806,2018,Pioneer 10 and 11,,Jupiter
+2807,2019,Pioneer 10 and 11,,Jupiter
+2808,2020,Pioneer 10 and 11,,Jupiter
+2809,2021,Pioneer 10 and 11,,Jupiter
+2810,2022,Pioneer 10 and 11,,Jupiter
+2811,2023,Pioneer 10 and 11,,Jupiter
+2812,2024,Pioneer 10 and 11,,Jupiter
+2813,2025,Pioneer 10 and 11,,Jupiter
+2814,1960,Pioneer Venus,,Venus
+2815,1961,Pioneer Venus,,Venus
+2816,1962,Pioneer Venus,,Venus
+2817,1963,Pioneer Venus,,Venus
+2818,1964,Pioneer Venus,,Venus
+2819,1965,Pioneer Venus,,Venus
+2820,1966,Pioneer Venus,,Venus
+2821,1967,Pioneer Venus,,Venus
+2822,1968,Pioneer Venus,,Venus
+2823,1969,Pioneer Venus,,Venus
+2824,1970,Pioneer Venus,,Venus
+2825,1971,Pioneer Venus,,Venus
+2826,1972,Pioneer Venus,,Venus
+2827,1973,Pioneer Venus,,Venus
+2828,1974,Pioneer Venus,,Venus
+2829,1975,Pioneer Venus,27.316,Venus
+2830,1976,Pioneer Venus,63,Venus
+2832,1977,Pioneer Venus,83.35,Venus
+2833,1978,Pioneer Venus,23.205,Venus
+2834,1979,Pioneer Venus,9,Venus
+2835,1980,Pioneer Venus,8.251,Venus
+2836,1981,Pioneer Venus,4.7,Venus
+2837,1982,Pioneer Venus,5.066666667,Venus
+2838,1983,Pioneer Venus,5.066666667,Venus
+2839,1984,Pioneer Venus,5.066666667,Venus
+2840,1985,Pioneer Venus,5.066666667,Venus
+2841,1986,Pioneer Venus,5.066666667,Venus
+2842,1987,Pioneer Venus,5.2,Venus
+2843,1988,Pioneer Venus,4.4,Venus
+2844,1989,Pioneer Venus,5.6,Venus
+2845,1990,Pioneer Venus,5.9,Venus
+2846,1991,Pioneer Venus,6.2,Venus
+2847,1992,Pioneer Venus,6.5,Venus
+2848,1993,Pioneer Venus,,Venus
+2849,1994,Pioneer Venus,,Venus
+2850,1995,Pioneer Venus,,Venus
+2851,1996,Pioneer Venus,,Venus
+2852,1997,Pioneer Venus,,Venus
+2853,1998,Pioneer Venus,,Venus
+2854,1999,Pioneer Venus,,Venus
+2855,2000,Pioneer Venus,,Venus
+2856,2001,Pioneer Venus,,Venus
+2857,2002,Pioneer Venus,,Venus
+2858,2003,Pioneer Venus,,Venus
+2859,2004,Pioneer Venus,,Venus
+2860,2005,Pioneer Venus,,Venus
+2861,2006,Pioneer Venus,,Venus
+2862,2007,Pioneer Venus,,Venus
+2863,2008,Pioneer Venus,,Venus
+2864,2009,Pioneer Venus,,Venus
+2865,2010,Pioneer Venus,,Venus
+2866,2011,Pioneer Venus,,Venus
+2867,2012,Pioneer Venus,,Venus
+2868,2013,Pioneer Venus,,Venus
+2869,2014,Pioneer Venus,,Venus
+2870,2015,Pioneer Venus,,Venus
+2871,2016,Pioneer Venus,,Venus
+2872,2017,Pioneer Venus,,Venus
+2873,2018,Pioneer Venus,,Venus
+2874,2019,Pioneer Venus,,Venus
+2875,2020,Pioneer Venus,,Venus
+2876,2021,Pioneer Venus,,Venus
+2877,2022,Pioneer Venus,,Venus
+2878,2023,Pioneer Venus,,Venus
+2879,2024,Pioneer Venus,,Venus
+2880,2025,Pioneer Venus,,Venus
+2881,1960,Psyche,,Asteroid
+2882,1961,Psyche,,Asteroid
+2883,1962,Psyche,,Asteroid
+2884,1963,Psyche,,Asteroid
+2885,1964,Psyche,,Asteroid
+2886,1965,Psyche,,Asteroid
+2887,1966,Psyche,,Asteroid
+2888,1967,Psyche,,Asteroid
+2889,1968,Psyche,,Asteroid
+2890,1969,Psyche,,Asteroid
+2891,1970,Psyche,,Asteroid
+2892,1971,Psyche,,Asteroid
+2893,1972,Psyche,,Asteroid
+2894,1973,Psyche,,Asteroid
+2895,1974,Psyche,,Asteroid
+2896,1975,Psyche,,Asteroid
+2897,1976,Psyche,,Asteroid
+2899,1977,Psyche,,Asteroid
+2900,1978,Psyche,,Asteroid
+2901,1979,Psyche,,Asteroid
+2902,1980,Psyche,,Asteroid
+2903,1981,Psyche,,Asteroid
+2904,1982,Psyche,,Asteroid
+2905,1983,Psyche,,Asteroid
+2906,1984,Psyche,,Asteroid
+2907,1985,Psyche,,Asteroid
+2908,1986,Psyche,,Asteroid
+2909,1987,Psyche,,Asteroid
+2910,1988,Psyche,,Asteroid
+2911,1989,Psyche,,Asteroid
+2912,1990,Psyche,,Asteroid
+2913,1991,Psyche,,Asteroid
+2914,1992,Psyche,,Asteroid
+2915,1993,Psyche,,Asteroid
+2916,1994,Psyche,,Asteroid
+2917,1995,Psyche,,Asteroid
+2918,1996,Psyche,,Asteroid
+2919,1997,Psyche,,Asteroid
+2920,1998,Psyche,,Asteroid
+2921,1999,Psyche,,Asteroid
+2922,2000,Psyche,,Asteroid
+2923,2001,Psyche,,Asteroid
+2924,2002,Psyche,,Asteroid
+2925,2003,Psyche,,Asteroid
+2926,2004,Psyche,,Asteroid
+2927,2005,Psyche,,Asteroid
+2928,2006,Psyche,,Asteroid
+2929,2007,Psyche,,Asteroid
+2930,2008,Psyche,,Asteroid
+2931,2009,Psyche,,Asteroid
+2932,2010,Psyche,,Asteroid
+2933,2011,Psyche,,Asteroid
+2934,2012,Psyche,,Asteroid
+2935,2013,Psyche,,Asteroid
+2936,2014,Psyche,,Asteroid
+2937,2015,Psyche,,Asteroid
+2938,2016,Psyche,3,Asteroid
+2939,2017,Psyche,47.3,Asteroid
+2940,2018,Psyche,42,Asteroid
+2941,2019,Psyche,174.2,Asteroid
+2942,2020,Psyche,219.3,Asteroid
+2943,2021,Psyche,187.4,Asteroid
+2944,2022,Psyche,152.4,Asteroid
+2945,2023,Psyche,28.7,Asteroid
+2946,2024,Psyche,29,Asteroid
+2947,2025,Psyche,32,Asteroid
+2948,1960,Stardust,,Comet
+2949,1961,Stardust,,Comet
+2950,1962,Stardust,,Comet
+2951,1963,Stardust,,Comet
+2952,1964,Stardust,,Comet
+2953,1965,Stardust,,Comet
+2954,1966,Stardust,,Comet
+2955,1967,Stardust,,Comet
+2956,1968,Stardust,,Comet
+2957,1969,Stardust,,Comet
+2958,1970,Stardust,,Comet
+2959,1971,Stardust,,Comet
+2960,1972,Stardust,,Comet
+2961,1973,Stardust,,Comet
+2962,1974,Stardust,,Comet
+2963,1975,Stardust,,Comet
+2964,1976,Stardust,,Comet
+2966,1977,Stardust,,Comet
+2967,1978,Stardust,,Comet
+2968,1979,Stardust,,Comet
+2969,1980,Stardust,,Comet
+2970,1981,Stardust,,Comet
+2971,1982,Stardust,,Comet
+2972,1983,Stardust,,Comet
+2973,1984,Stardust,,Comet
+2974,1985,Stardust,,Comet
+2975,1986,Stardust,,Comet
+2976,1987,Stardust,,Comet
+2977,1988,Stardust,,Comet
+2978,1989,Stardust,,Comet
+2979,1990,Stardust,,Comet
+2980,1991,Stardust,,Comet
+2981,1992,Stardust,,Comet
+2982,1993,Stardust,,Comet
+2983,1994,Stardust,,Comet
+2984,1995,Stardust,,Comet
+2985,1996,Stardust,27.7,Comet
+2986,1997,Stardust,63.7,Comet
+2987,1998,Stardust,54.5,Comet
+2988,1999,Stardust,24.8,Comet
+2989,2000,Stardust,4.3,Comet
+2990,2001,Stardust,4.6,Comet
+2991,2002,Stardust,4.3,Comet
+2992,2003,Stardust,5.6,Comet
+2993,2004,Stardust,6.8,Comet
+2994,2005,Stardust,5.6,Comet
+2995,2006,Stardust,6.6,Comet
+2996,2007,Stardust,5.8,Comet
+2997,2008,Stardust,5.8,Comet
+2998,2009,Stardust,5.8,Comet
+2999,2010,Stardust,5.8,Comet
+3000,2011,Stardust,5.8,Comet
+3001,2012,Stardust,,Comet
+3002,2013,Stardust,,Comet
+3003,2014,Stardust,,Comet
+3004,2015,Stardust,,Comet
+3005,2016,Stardust,,Comet
+3006,2017,Stardust,,Comet
+3007,2018,Stardust,,Comet
+3008,2019,Stardust,,Comet
+3009,2020,Stardust,,Comet
+3010,2021,Stardust,,Comet
+3011,2022,Stardust,,Comet
+3012,2023,Stardust,,Comet
+3013,2024,Stardust,,Comet
+3014,2025,Stardust,,Comet
+3015,1960,Voyager,,Outer
+3016,1961,Voyager,,Outer
+3017,1962,Voyager,,Outer
+3018,1963,Voyager,,Outer
+3019,1964,Voyager,,Outer
+3020,1965,Voyager,,Outer
+3021,1966,Voyager,,Outer
+3022,1967,Voyager,,Outer
+3023,1968,Voyager,,Outer
+3024,1969,Voyager,,Outer
+3025,1970,Voyager,,Outer
+3026,1971,Voyager,,Outer
+3027,1972,Voyager,9.165,Outer
+3028,1973,Voyager,6.064,Outer
+3029,1974,Voyager,46.59,Outer
+3030,1975,Voyager,76.961,Outer
+3031,1976,Voyager,112.6,Outer
+3033,1977,Voyager,85.267,Outer
+3034,1978,Voyager,16.025,Outer
+3035,1979,Voyager,16.742,Outer
+3036,1980,Voyager,19,Outer
+3037,1981,Voyager,28.966,Outer
+3038,1982,Voyager,17.2,Outer
+3039,1983,Voyager,17.4,Outer
+3040,1984,Voyager,19.1,Outer
+3041,1985,Voyager,26.036,Outer
+3042,1986,Voyager,30.8,Outer
+3043,1987,Voyager,28.905,Outer
+3044,1988,Voyager,24.62,Outer
+3045,1989,Voyager,42.4,Outer
+3046,1990,Voyager,25.492,Outer
+3047,1991,Voyager,17.577,Outer
+3048,1992,Voyager,4.3,Outer
+3049,1993,Voyager,5.01,Outer
+3050,1994,Voyager,17,Outer
+3051,1995,Voyager,4.3,Outer
+3052,1996,Voyager,8,Outer
+3053,1997,Voyager,8,Outer
+3054,1998,Voyager,8,Outer
+3055,1999,Voyager,,Outer
+3056,2000,Voyager,,Outer
+3057,2001,Voyager,,Outer
+3058,2002,Voyager,1.8,Outer
+3059,2003,Voyager,0.8,Outer
+3060,2004,Voyager,2,Outer
+3061,2005,Voyager,,Outer
+3062,2006,Voyager,,Outer
+3063,2007,Voyager,,Outer
+3064,2008,Voyager,,Outer
+3065,2009,Voyager,,Outer
+3066,2010,Voyager,,Outer
+3067,2011,Voyager,4.4,Outer
+3068,2012,Voyager,5.3,Outer
+3069,2013,Voyager,5.3,Outer
+3070,2014,Voyager,5.4,Outer
+3071,2015,Voyager,5.5,Outer
+3072,2016,Voyager,5.7,Outer
+3073,2017,Voyager,5.6,Outer
+3074,2018,Voyager,5.6,Outer
+3075,2019,Voyager,5.8,Outer
+3076,2020,Voyager,,Outer
+3077,2021,Voyager,,Outer
+3078,2022,Voyager,,Outer
+3079,2023,Voyager,,Outer
+3080,2024,Voyager,,Outer
+3081,2025,Voyager,,Outer
+3082,1960,Viking,,Mars
+3083,1961,Viking,,Mars
+3084,1962,Viking,,Mars
+3085,1963,Viking,,Mars
+3086,1964,Viking,,Mars
+3087,1965,Viking,,Mars
+3088,1966,Viking,,Mars
+3089,1967,Viking,,Mars
+3090,1968,Viking,,Mars
+3091,1969,Viking,12.427,Mars
+3092,1970,Viking,40.2,Mars
+3093,1971,Viking,41.1,Mars
+3094,1972,Viking,186.3,Mars
+3095,1973,Viking,265.249,Mars
+3096,1974,Viking,313.437,Mars
+3097,1975,Viking,95.216,Mars
+3098,1976,Viking,39.5,Mars
+3100,1977,Viking,37,Mars
+3101,1978,Viking,20,Mars
+3102,1979,Viking,5,Mars
+3103,1980,Viking,2.45,Mars
+3104,1981,Viking,,Mars
+3105,1982,Viking,,Mars
+3106,1983,Viking,,Mars
+3107,1984,Viking,,Mars
+3108,1985,Viking,,Mars
+3109,1986,Viking,,Mars
+3110,1987,Viking,,Mars
+3111,1988,Viking,,Mars
+3112,1989,Viking,,Mars
+3113,1990,Viking,,Mars
+3114,1991,Viking,,Mars
+3115,1992,Viking,,Mars
+3116,1993,Viking,,Mars
+3117,1994,Viking,,Mars
+3118,1995,Viking,,Mars
+3119,1996,Viking,,Mars
+3120,1997,Viking,,Mars
+3121,1998,Viking,,Mars
+3122,1999,Viking,,Mars
+3123,2000,Viking,,Mars
+3124,2001,Viking,,Mars
+3125,2002,Viking,,Mars
+3126,2003,Viking,,Mars
+3127,2004,Viking,,Mars
+3128,2005,Viking,,Mars
+3129,2006,Viking,,Mars
+3130,2007,Viking,,Mars
+3131,2008,Viking,,Mars
+3132,2009,Viking,,Mars
+3133,2010,Viking,,Mars
+3134,2011,Viking,,Mars
+3135,2012,Viking,,Mars
+3136,2013,Viking,,Mars
+3137,2014,Viking,,Mars
+3138,2015,Viking,,Mars
+3139,2016,Viking,,Mars
+3140,2017,Viking,,Mars
+3141,2018,Viking,,Mars
+3142,2019,Viking,,Mars
+3143,2020,Viking,,Mars
+3144,2021,Viking,,Mars
+3145,2022,Viking,,Mars
+3146,2023,Viking,,Mars
+3147,2024,Viking,,Mars
+3148,2025,Viking,,Mars
